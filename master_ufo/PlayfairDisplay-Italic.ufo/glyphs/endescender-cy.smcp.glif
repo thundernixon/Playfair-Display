@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endescender-cy.smcp" format="2">
+  <advance width="758.0"/>
+  <anchor x="320.0" y="0.0" name="bottom"/>
+  <anchor x="432.0" y="444.0" name="center"/>
+  <anchor x="471.0" y="608.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="592.0" y="-190.0" type="curve"/>
+      <point x="614.0" y="-190.0" type="line"/>
+      <point x="617.0" y="-174.0"/>
+      <point x="621.0" y="-152.0"/>
+      <point x="627.0" y="-128.0" type="curve" smooth="yes"/>
+      <point x="638.0" y="-83.0"/>
+      <point x="653.0" y="-27.0"/>
+      <point x="671.0" y="20.0" type="curve"/>
+      <point x="640.0" y="20.0" type="line" smooth="yes"/>
+      <point x="573.0" y="20.0"/>
+      <point x="561.0" y="33.0"/>
+      <point x="579.0" y="106.0" type="curve"/>
+      <point x="508.0" y="3.0" type="line"/>
+      <point x="575.0" y="3.0"/>
+      <point x="616.0" y="-44.0"/>
+    </contour>
+    <component base="en-cy.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 00:55:20</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

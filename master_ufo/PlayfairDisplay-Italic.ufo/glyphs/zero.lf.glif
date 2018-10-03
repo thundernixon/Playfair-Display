@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.lf" format="2">
+  <advance width="575.0"/>
+  <outline>
+    <contour>
+      <point x="408.0" y="722.0" type="curve" smooth="yes"/>
+      <point x="224.0" y="722.0"/>
+      <point x="51.0" y="439.0"/>
+      <point x="51.0" y="192.0" type="curve" smooth="yes"/>
+      <point x="51.0" y="50.0"/>
+      <point x="106.0" y="-14.0"/>
+      <point x="194.0" y="-14.0" type="curve" smooth="yes"/>
+      <point x="383.0" y="-14.0"/>
+      <point x="555.0" y="270.0"/>
+      <point x="555.0" y="517.0" type="curve" smooth="yes"/>
+      <point x="555.0" y="659.0"/>
+      <point x="500.0" y="722.0"/>
+    </contour>
+    <contour>
+      <point x="405.0" y="704.0" type="curve" smooth="yes"/>
+      <point x="440.0" y="704.0"/>
+      <point x="464.0" y="657.0"/>
+      <point x="464.0" y="564.0" type="curve" smooth="yes"/>
+      <point x="464.0" y="333.0"/>
+      <point x="340.0" y="4.0"/>
+      <point x="201.0" y="4.0" type="curve" smooth="yes"/>
+      <point x="166.0" y="4.0"/>
+      <point x="142.0" y="51.0"/>
+      <point x="142.0" y="144.0" type="curve" smooth="yes"/>
+      <point x="142.0" y="375.0"/>
+      <point x="266.0" y="704.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:07:53</string>
+    </dict>
+  </lib>
+</glyph>

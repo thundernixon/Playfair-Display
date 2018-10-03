@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve.smcp" format="2">
+  <advance width="664.0"/>
+  <anchor x="186.0" y="0.0" name="bottom"/>
+  <anchor x="550.0" y="0.0" name="ogonek"/>
+  <anchor x="485.0" y="751.0" name="top"/>
+  <outline>
+    <component base="a.smcp"/>
+    <component base="brevecomb.smcp" xOffset="125.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 17:42:58</string>
+    </dict>
+  </lib>
+</glyph>

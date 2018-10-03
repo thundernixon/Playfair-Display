@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.dnom" format="2">
+  <advance width="366.0"/>
+  <outline>
+    <component base="twosuperior" xOffset="-109.0" yOffset="-437.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/24 10:51:35</string>
+    </dict>
+  </lib>
+</glyph>

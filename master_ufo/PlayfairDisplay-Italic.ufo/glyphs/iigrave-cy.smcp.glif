@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iigrave-cy.smcp" format="2">
+  <advance width="762.0"/>
+  <anchor x="638.0" y="0.0" name="bottomright"/>
+  <anchor x="512.0" y="828.0" name="top"/>
+  <outline>
+    <component base="ii-cy.smcp"/>
+    <component base="gravecomb.smcp" xOffset="146.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 17:44:01</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

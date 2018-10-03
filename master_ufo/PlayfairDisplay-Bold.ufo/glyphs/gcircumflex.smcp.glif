@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcircumflex.smcp" format="2">
+  <advance width="744.0"/>
+  <anchor x="340.0" y="0.0" name="bottom"/>
+  <anchor x="547.0" y="828.0" name="top"/>
+  <outline>
+    <component base="g.smcp"/>
+    <component base="circumflexcomb.smcp" xOffset="135.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:47:52</string>
+    </dict>
+  </lib>
+</glyph>

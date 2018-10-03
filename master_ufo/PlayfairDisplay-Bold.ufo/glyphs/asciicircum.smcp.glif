@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum.smcp" format="2">
+  <advance width="580.0"/>
+  <outline>
+    <contour>
+      <point x="347.0" y="566.0" type="curve"/>
+      <point x="422.0" y="537.0"/>
+      <point x="509.0" y="515.0"/>
+      <point x="593.0" y="506.0" type="curve"/>
+      <point x="599.0" y="521.0" type="line"/>
+      <point x="499.0" y="565.0"/>
+      <point x="444.0" y="643.0"/>
+      <point x="429.0" y="722.0" type="curve"/>
+      <point x="411.0" y="722.0" type="line"/>
+      <point x="346.0" y="643.0"/>
+      <point x="233.0" y="564.0"/>
+      <point x="107.0" y="520.0" type="curve"/>
+      <point x="111.0" y="506.0" type="line"/>
+      <point x="199.0" y="520.0"/>
+      <point x="283.0" y="542.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:07:53</string>
+    </dict>
+  </lib>
+</glyph>

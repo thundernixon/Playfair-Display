@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_longs.liga" format="2">
+  <outline>
+    <component base="longs"/>
+    <component base="longs" xOffset="321.0"/>
+  </outline>
+</glyph>

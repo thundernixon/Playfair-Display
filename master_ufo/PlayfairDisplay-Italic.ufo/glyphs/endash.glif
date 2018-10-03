@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+  <advance width="728.0"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="60.0" y="284.0" type="line"/>
+      <point x="50.0" y="244.0" type="line"/>
+      <point x="650.0" y="244.0" type="line"/>
+      <point x="661.0" y="284.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/08/06 13:35:49</string>
+    </dict>
+  </lib>
+</glyph>

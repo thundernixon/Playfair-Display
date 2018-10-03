@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve" format="2">
+  <advance width="449.0"/>
+  <unicode hex="011F"/>
+  <anchor x="107.0" y="-195.0" name="bottom"/>
+  <anchor x="333.0" y="700.0" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="brevecomb" xOffset="27.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:38:11</string>
+    </dict>
+  </lib>
+</glyph>

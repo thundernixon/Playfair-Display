@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen.smcp" format="2">
+  <advance width="497.0"/>
+  <outline>
+    <component base="hyphen" xOffset="6.0" yOffset="40.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 16:24:56</string>
+    </dict>
+  </lib>
+</glyph>

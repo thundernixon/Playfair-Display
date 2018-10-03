@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iegrave-cy.smcp" format="2">
+  <advance width="619.0"/>
+  <anchor x="280.0" y="0.0" name="bottom"/>
+  <anchor x="451.0" y="0.0" name="ogonek"/>
+  <anchor x="456.0" y="828.0" name="top"/>
+  <outline>
+    <component base="ie-cy.smcp"/>
+    <component base="gravecomb.smcp" xOffset="90.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 17:34:51</string>
+    </dict>
+  </lib>
+</glyph>

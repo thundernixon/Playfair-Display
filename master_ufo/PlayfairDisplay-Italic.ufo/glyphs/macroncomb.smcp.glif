@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.smcp" format="2">
+  <guideline x="324.0" y="643.0" angle="76.0"/>
+  <anchor x="315.0" y="608.0" name="_top"/>
+  <anchor x="370.0" y="828.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="493.0" y="744.0" type="line"/>
+      <point x="141.0" y="744.0" type="line"/>
+      <point x="135.0" y="719.0" type="line"/>
+      <point x="487.0" y="719.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:57:19</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>392.0</real>
+    </dict>
+  </lib>
+</glyph>

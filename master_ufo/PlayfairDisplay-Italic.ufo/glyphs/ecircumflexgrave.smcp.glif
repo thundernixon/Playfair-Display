@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexgrave.smcp" format="2">
+  <advance width="619.0"/>
+  <anchor x="280.0" y="0.0" name="bottom"/>
+  <anchor x="451.0" y="0.0" name="ogonek"/>
+  <anchor x="511.0" y="1048.0" name="top"/>
+  <outline>
+    <component base="e.smcp"/>
+    <component base="circumflexcomb.smcp" xOffset="76.0"/>
+    <component base="gravecomb.smcp" xOffset="145.0" yOffset="220.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:45:50</string>
+    </dict>
+  </lib>
+</glyph>

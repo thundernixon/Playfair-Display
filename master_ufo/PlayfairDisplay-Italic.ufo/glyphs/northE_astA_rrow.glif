@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northEastArrow" format="2">
+  <advance width="684.0"/>
+  <unicode hex="2197"/>
+  <outline>
+    <component base="northWestArrow" xScale="-1.0" xOffset="684.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:07:53</string>
+    </dict>
+  </lib>
+</glyph>

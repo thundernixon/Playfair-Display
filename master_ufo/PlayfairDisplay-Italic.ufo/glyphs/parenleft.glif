@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+  <advance width="361.0"/>
+  <unicode hex="0028"/>
+  <outline>
+    <component base="parenright" xScale="-1.0" yScale="-1.0" xOffset="370.0" yOffset="624.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/08/06 13:35:49</string>
+    </dict>
+  </lib>
+</glyph>

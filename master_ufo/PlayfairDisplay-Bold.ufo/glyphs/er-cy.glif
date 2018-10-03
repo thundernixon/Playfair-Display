@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="er-cy" format="2">
+  <advance width="605.0"/>
+  <unicode hex="0440"/>
+  <anchor x="54.0" y="-181.0" name="bottom"/>
+  <anchor x="434.0" y="771.0" name="top"/>
+  <outline>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/09/30 19:51:17</string>
+    </dict>
+  </lib>
+</glyph>

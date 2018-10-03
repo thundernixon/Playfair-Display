@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yat-cy" format="2">
+  <advance width="690.0"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="71.0" y="541.0" type="line"/>
+      <point x="506.0" y="541.0" type="line"/>
+      <point x="510.0" y="561.0" type="line"/>
+      <point x="75.0" y="561.0" type="line"/>
+    </contour>
+    <component base="Softsign-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/02 19:26:29</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

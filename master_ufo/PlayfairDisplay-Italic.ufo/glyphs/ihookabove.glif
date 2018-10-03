@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ihookabove" format="2">
+  <advance width="302.0"/>
+  <unicode hex="1EC9"/>
+  <anchor x="95.0" y="0.0" name="bottom"/>
+  <anchor x="166.0" y="10.0" name="ogonek"/>
+  <anchor x="260.0" y="816.0" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="hookabovecomb" xOffset="-23.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 17:29:33</string>
+    </dict>
+  </lib>
+</glyph>

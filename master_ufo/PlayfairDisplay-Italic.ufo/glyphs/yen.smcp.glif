@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.smcp" format="2">
+  <advance width="666.0"/>
+  <anchor x="253.0" y="0.0" name="bottom"/>
+  <anchor x="421.0" y="608.0" name="top"/>
+  <anchor x="104.0" y="608.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="495.0" y="216.0" type="line"/>
+      <point x="100.0" y="216.0" type="line"/>
+      <point x="95.0" y="196.0" type="line"/>
+      <point x="490.0" y="196.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="519.0" y="316.0" type="line"/>
+      <point x="124.0" y="316.0" type="line"/>
+      <point x="119.0" y="296.0" type="line"/>
+      <point x="514.0" y="296.0" type="line"/>
+    </contour>
+    <component base="y.smcp" xOffset="2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:07:53</string>
+    </dict>
+  </lib>
+</glyph>

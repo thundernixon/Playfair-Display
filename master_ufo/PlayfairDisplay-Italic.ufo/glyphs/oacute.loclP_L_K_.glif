@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oacute.loclPLK" format="2">
+  <advance width="488.0"/>
+  <anchor x="165.0" y="0.0" name="bottom"/>
+  <anchor x="230.0" y="257.0" name="center"/>
+  <anchor x="391.0" y="758.0" name="top"/>
+  <anchor x="532.0" y="514.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="acutecomb.loclPLK" xOffset="202.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:38:11</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcaron.smcp" format="2">
+  <advance width="674.0"/>
+  <anchor x="277.0" y="0.0" name="bottom"/>
+  <anchor x="473.0" y="828.0" name="top"/>
+  <outline>
+    <component base="k.smcp"/>
+    <component base="caroncomb.smcp" xOffset="111.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:51:30</string>
+    </dict>
+  </lib>
+</glyph>

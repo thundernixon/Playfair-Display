@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cy.smcp" format="2">
+  <advance width="674.0"/>
+  <anchor x="277.0" y="0.0" name="bottom"/>
+  <anchor x="418.0" y="608.0" name="top"/>
+  <outline>
+    <component base="k.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 00:49:48</string>
+    </dict>
+  </lib>
+</glyph>

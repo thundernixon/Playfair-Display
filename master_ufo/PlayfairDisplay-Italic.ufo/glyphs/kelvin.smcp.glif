@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kelvin.smcp" format="2">
+  <advance width="674.0"/>
+  <anchor x="277.0" y="0.0" name="bottom"/>
+  <anchor x="418.0" y="608.0" name="top"/>
+  <outline>
+    <component base="k.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 16:28:29</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

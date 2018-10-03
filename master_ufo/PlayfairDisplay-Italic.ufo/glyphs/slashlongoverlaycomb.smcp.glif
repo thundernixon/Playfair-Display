@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlongoverlaycomb.smcp" format="2">
+  <advance width="732.0"/>
+  <anchor x="374.0" y="317.0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="597.0" y="566.0" type="line"/>
+      <point x="607.0" y="546.0" type="line"/>
+      <point x="747.0" y="694.0" type="line"/>
+      <point x="732.0" y="707.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="159.0" y="77.0" type="line"/>
+      <point x="146.0" y="95.0" type="line"/>
+      <point x="1.0" y="-59.0" type="line"/>
+      <point x="18.0" y="-73.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="154.0" y="95.0" type="line"/>
+      <point x="167.0" y="77.0" type="line"/>
+      <point x="600.0" y="546.0" type="line"/>
+      <point x="590.0" y="566.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 16:52:48</string>
+    </dict>
+  </lib>
+</glyph>

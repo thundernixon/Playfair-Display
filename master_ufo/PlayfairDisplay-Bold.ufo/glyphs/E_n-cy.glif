@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="En-cy" format="2">
+  <advance width="846.0"/>
+  <unicode hex="041D"/>
+  <anchor x="354.0" y="0.0" name="bottom"/>
+  <anchor x="486.0" y="519.0" name="center"/>
+  <anchor x="533.0" y="708.0" name="top"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 00:35:29</string>
+    </dict>
+  </lib>
+</glyph>

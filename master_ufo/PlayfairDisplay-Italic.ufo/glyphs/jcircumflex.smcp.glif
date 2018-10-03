@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex.smcp" format="2">
+  <advance width="615.0"/>
+  <anchor x="479.0" y="828.0" name="top"/>
+  <outline>
+    <component base="j.smcp"/>
+    <component base="circumflexcomb.smcp" xOffset="99.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:38:11</string>
+    </dict>
+  </lib>
+</glyph>

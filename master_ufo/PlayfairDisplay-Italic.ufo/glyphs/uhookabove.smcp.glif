@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhookabove.smcp" format="2">
+  <advance width="683.0"/>
+  <anchor x="279.0" y="0.0" name="bottom"/>
+  <anchor x="350.0" y="0.0" name="ogonek"/>
+  <anchor x="501.0" y="910.0" name="top"/>
+  <outline>
+    <component base="u.smcp"/>
+    <component base="hookabovecomb" xOffset="218.0" yOffset="94.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:52:38</string>
+    </dict>
+  </lib>
+</glyph>

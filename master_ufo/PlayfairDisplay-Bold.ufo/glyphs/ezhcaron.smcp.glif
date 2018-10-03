@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ezhcaron.smcp" format="2">
+  <advance width="607.0"/>
+  <anchor x="230.0" y="0.0" name="bottom"/>
+  <anchor x="437.0" y="829.0" name="top"/>
+  <outline>
+    <component base="ezh.smcp"/>
+    <component base="caroncomb.smcp" xOffset="79.0" yOffset="1.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 13:41:19</string>
+    </dict>
+  </lib>
+</glyph>

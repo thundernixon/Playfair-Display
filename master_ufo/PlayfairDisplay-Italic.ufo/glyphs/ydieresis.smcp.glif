@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis.smcp" format="2">
+  <advance width="638.0"/>
+  <anchor x="251.0" y="0.0" name="bottom"/>
+  <anchor x="474.0" y="828.0" name="top"/>
+  <anchor x="102.0" y="608.0" name="topleft"/>
+  <outline>
+    <component base="y.smcp"/>
+    <component base="dieresiscomb.smcp" xOffset="133.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 00:25:04</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex.smcp" format="2">
+  <advance width="683.0"/>
+  <anchor x="279.0" y="0.0" name="bottom"/>
+  <anchor x="350.0" y="0.0" name="ogonek"/>
+  <anchor x="499.0" y="828.0" name="top"/>
+  <outline>
+    <component base="u.smcp"/>
+    <component base="circumflexcomb.smcp" xOffset="119.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:52:14</string>
+    </dict>
+  </lib>
+</glyph>

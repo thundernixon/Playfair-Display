@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i-cy" format="2">
+  <advance width="336.0"/>
+  <unicode hex="0456"/>
+  <anchor x="103.0" y="0.0" name="bottom"/>
+  <anchor x="194.0" y="0.0" name="ogonek"/>
+  <anchor x="220.0" y="514.0" name="top"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:23:05</string>
+    </dict>
+  </lib>
+</glyph>

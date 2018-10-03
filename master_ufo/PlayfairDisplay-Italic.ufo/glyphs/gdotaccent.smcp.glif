@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent.smcp" format="2">
+  <advance width="697.0"/>
+  <anchor x="300.0" y="0.0" name="bottom"/>
+  <anchor x="507.0" y="828.0" name="top"/>
+  <outline>
+    <component base="g.smcp"/>
+    <component base="dotaccentcomb.smcp" xOffset="274.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:47:52</string>
+    </dict>
+  </lib>
+</glyph>

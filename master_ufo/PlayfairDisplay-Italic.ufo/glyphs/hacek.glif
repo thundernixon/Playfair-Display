@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hacek" format="2">
+  <advance width="138.0"/>
+  <anchor x="81.0" y="773.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="98.0" y="540.0" type="curve"/>
+      <point x="112.0" y="536.0" type="line"/>
+      <point x="195.0" y="637.0"/>
+      <point x="244.0" y="724.0"/>
+      <point x="244.0" y="776.0" type="curve" smooth="yes"/>
+      <point x="244.0" y="779.0"/>
+      <point x="244.0" y="782.0"/>
+      <point x="243.0" y="784.0" type="curve"/>
+      <point x="224.0" y="778.0"/>
+      <point x="203.0" y="772.0"/>
+      <point x="170.0" y="772.0" type="curve" smooth="yes"/>
+      <point x="163.0" y="772.0"/>
+      <point x="157.0" y="773.0"/>
+      <point x="149.0" y="773.0" type="curve"/>
+      <point x="146.0" y="752.0" type="line"/>
+      <point x="156.0" y="752.0"/>
+      <point x="159.0" y="745.0"/>
+      <point x="159.0" y="733.0" type="curve" smooth="yes"/>
+      <point x="159.0" y="708.0"/>
+      <point x="143.0" y="638.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:31:04</string>
+    </dict>
+  </lib>
+</glyph>

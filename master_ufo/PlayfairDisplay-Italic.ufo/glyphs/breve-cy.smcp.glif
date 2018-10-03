@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve-cy.smcp" format="2">
+  <advance width="430.0"/>
+  <anchor x="306.0" y="608.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="204.0" y="697.0" type="curve"/>
+      <point x="232.0" y="706.0"/>
+      <point x="251.0" y="728.0"/>
+      <point x="251.0" y="757.0" type="curve" smooth="yes"/>
+      <point x="251.0" y="785.0"/>
+      <point x="234.0" y="799.0"/>
+      <point x="208.0" y="799.0" type="curve" smooth="yes"/>
+      <point x="172.0" y="799.0"/>
+      <point x="141.0" y="772.0"/>
+      <point x="141.0" y="735.0" type="curve" smooth="yes"/>
+      <point x="141.0" y="673.0"/>
+      <point x="228.0" y="658.0"/>
+      <point x="285.0" y="658.0" type="curve" smooth="yes"/>
+      <point x="377.0" y="658.0"/>
+      <point x="469.0" y="697.0"/>
+      <point x="540.0" y="780.0" type="curve"/>
+      <point x="526.0" y="792.0" type="line"/>
+      <point x="462.0" y="720.0"/>
+      <point x="383.0" y="679.0"/>
+      <point x="292.0" y="679.0" type="curve" smooth="yes"/>
+      <point x="254.0" y="679.0"/>
+      <point x="218.0" y="687.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2013/09/26 18:43:48</string>
+    </dict>
+  </lib>
+</glyph>

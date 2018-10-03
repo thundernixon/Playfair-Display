@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortoverlaycomb.smcp" format="2">
+  <advance width="472.0"/>
+  <anchor x="248.0" y="307.0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="467.0" y="319.0" type="line"/>
+      <point x="35.0" y="319.0" type="line"/>
+      <point x="29.0" y="294.0" type="line"/>
+      <point x="461.0" y="294.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 16:50:25</string>
+    </dict>
+  </lib>
+</glyph>

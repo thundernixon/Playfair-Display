@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+  <advance width="300.0"/>
+  <unicode hex="005B"/>
+  <outline>
+    <component base="bracketright" xScale="-1.0" yScale="-1.0" xOffset="300.0" yOffset="591.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/08/06 13:35:49</string>
+    </dict>
+  </lib>
+</glyph>

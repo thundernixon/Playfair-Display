@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb.smcp" format="2">
+  <guideline x="219.0" y="643.0" angle="76.0"/>
+  <anchor x="210.0" y="608.0" name="_top"/>
+  <anchor x="265.0" y="828.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="248.0" y="825.0" type="curve" smooth="yes"/>
+      <point x="188.0" y="825.0"/>
+      <point x="139.0" y="780.0"/>
+      <point x="139.0" y="722.0" type="curve" smooth="yes"/>
+      <point x="139.0" y="672.0"/>
+      <point x="175.0" y="642.0"/>
+      <point x="222.0" y="642.0" type="curve" smooth="yes"/>
+      <point x="281.0" y="642.0"/>
+      <point x="334.0" y="689.0"/>
+      <point x="334.0" y="745.0" type="curve" smooth="yes"/>
+      <point x="334.0" y="794.0"/>
+      <point x="296.0" y="825.0"/>
+    </contour>
+    <contour>
+      <point x="226.0" y="663.0" type="curve" smooth="yes"/>
+      <point x="196.0" y="663.0"/>
+      <point x="165.0" y="683.0"/>
+      <point x="165.0" y="723.0" type="curve" smooth="yes"/>
+      <point x="165.0" y="765.0"/>
+      <point x="203.0" y="804.0"/>
+      <point x="244.0" y="804.0" type="curve" smooth="yes"/>
+      <point x="275.0" y="804.0"/>
+      <point x="308.0" y="784.0"/>
+      <point x="308.0" y="746.0" type="curve" smooth="yes"/>
+      <point x="308.0" y="698.0"/>
+      <point x="268.0" y="663.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:57:10</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>235.0</real>
+    </dict>
+  </lib>
+</glyph>

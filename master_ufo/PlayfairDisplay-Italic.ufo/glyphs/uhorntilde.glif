@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorntilde" format="2">
+  <advance width="567.0"/>
+  <unicode hex="1EEF"/>
+  <anchor x="232.0" y="0.0" name="bottom"/>
+  <anchor x="420.0" y="0.0" name="ogonek"/>
+  <anchor x="381.0" y="758.0" name="top"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="tildecomb" xOffset="42.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/02 14:10:11</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

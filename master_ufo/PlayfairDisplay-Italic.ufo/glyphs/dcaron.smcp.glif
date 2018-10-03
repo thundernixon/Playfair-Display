@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron.smcp" format="2">
+  <advance width="724.0"/>
+  <anchor x="298.0" y="0.0" name="bottom"/>
+  <anchor x="225.0" y="307.0" name="center"/>
+  <anchor x="440.0" y="828.0" name="top"/>
+  <outline>
+    <component base="d.smcp"/>
+    <component base="caroncomb.smcp" xOffset="78.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:30:22</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ezh" format="2">
+  <advance width="456.0"/>
+  <unicode hex="0292"/>
+  <anchor x="280.0" y="514.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="81.0" y="-191.0" type="curve" smooth="yes"/>
+      <point x="223.0" y="-191.0"/>
+      <point x="372.0" y="-97.0"/>
+      <point x="372.0" y="44.0" type="curve" smooth="yes"/>
+      <point x="372.0" y="149.0"/>
+      <point x="289.0" y="195.0"/>
+      <point x="193.0" y="209.0" type="curve"/>
+      <point x="194.0" y="206.0" type="line"/>
+      <point x="486.0" y="514.0" type="line"/>
+      <point x="459.0" y="514.0" type="line"/>
+      <point x="431.0" y="485.0"/>
+      <point x="404.0" y="477.0"/>
+      <point x="370.0" y="477.0" type="curve" smooth="yes"/>
+      <point x="291.0" y="477.0"/>
+      <point x="269.0" y="520.0"/>
+      <point x="195.0" y="520.0" type="curve" smooth="yes"/>
+      <point x="114.0" y="520.0"/>
+      <point x="81.0" y="468.0"/>
+      <point x="81.0" y="417.0" type="curve" smooth="yes"/>
+      <point x="81.0" y="365.0"/>
+      <point x="114.0" y="333.0"/>
+      <point x="178.0" y="318.0" type="curve"/>
+      <point x="184.0" y="333.0" type="line"/>
+      <point x="139.0" y="342.0"/>
+      <point x="105.0" y="367.0"/>
+      <point x="105.0" y="407.0" type="curve" smooth="yes"/>
+      <point x="105.0" y="438.0"/>
+      <point x="125.0" y="455.0"/>
+      <point x="161.0" y="455.0" type="curve" smooth="yes"/>
+      <point x="210.0" y="455.0"/>
+      <point x="246.0" y="423.0"/>
+      <point x="296.0" y="423.0" type="curve" smooth="yes"/>
+      <point x="332.0" y="423.0"/>
+      <point x="365.0" y="439.0"/>
+      <point x="422.0" y="475.0" type="curve"/>
+      <point x="167.0" y="206.0" type="line"/>
+      <point x="175.0" y="211.0" type="line"/>
+      <point x="145.0" y="210.0"/>
+      <point x="112.0" y="197.0"/>
+      <point x="112.0" y="178.0" type="curve" smooth="yes"/>
+      <point x="112.0" y="167.0"/>
+      <point x="123.0" y="163.0"/>
+      <point x="132.0" y="163.0" type="curve" smooth="yes"/>
+      <point x="148.0" y="163.0"/>
+      <point x="169.0" y="175.0"/>
+      <point x="186.0" y="196.0" type="curve"/>
+      <point x="242.0" y="179.0"/>
+      <point x="276.0" y="129.0"/>
+      <point x="276.0" y="46.0" type="curve" smooth="yes"/>
+      <point x="276.0" y="-87.0"/>
+      <point x="189.0" y="-171.0"/>
+      <point x="82.0" y="-171.0" type="curve" smooth="yes"/>
+      <point x="45.0" y="-171.0"/>
+      <point x="21.0" y="-161.0"/>
+      <point x="17.0" y="-148.0" type="curve"/>
+      <point x="52.0" y="-139.0"/>
+      <point x="74.0" y="-111.0"/>
+      <point x="74.0" y="-82.0" type="curve" smooth="yes"/>
+      <point x="74.0" y="-56.0"/>
+      <point x="57.0" y="-43.0"/>
+      <point x="33.0" y="-43.0" type="curve" smooth="yes"/>
+      <point x="-5.0" y="-43.0"/>
+      <point x="-36.0" y="-76.0"/>
+      <point x="-36.0" y="-112.0" type="curve" smooth="yes"/>
+      <point x="-36.0" y="-131.0"/>
+      <point x="-27.0" y="-152.0"/>
+      <point x="-7.0" y="-168.0" type="curve" smooth="yes"/>
+      <point x="6.0" y="-178.0"/>
+      <point x="28.0" y="-191.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 20:45:10</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>519.0</real>
+            <real>-19.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>68.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>50.0</real>
+          </array>
+          <key>type</key>
+          <string></string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

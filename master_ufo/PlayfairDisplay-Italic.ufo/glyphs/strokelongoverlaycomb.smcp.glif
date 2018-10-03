@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelongoverlaycomb.smcp" format="2">
+  <advance width="793.0"/>
+  <anchor x="443.0" y="444.0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="822.0" y="454.0" type="line"/>
+      <point x="69.0" y="454.0" type="line"/>
+      <point x="64.0" y="434.0" type="line"/>
+      <point x="817.0" y="434.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 15:35:44</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>1.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string></string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

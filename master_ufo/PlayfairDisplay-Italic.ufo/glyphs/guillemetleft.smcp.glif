@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetleft.smcp" format="2">
+  <advance width="553.0"/>
+  <outline>
+    <contour>
+      <point x="123.0" y="308.0" type="curve"/>
+      <point x="204.0" y="357.0"/>
+      <point x="317.0" y="484.0"/>
+      <point x="362.0" y="562.0" type="curve"/>
+      <point x="344.0" y="562.0" type="line"/>
+      <point x="255.0" y="460.0"/>
+      <point x="162.0" y="375.0"/>
+      <point x="48.0" y="309.0" type="curve"/>
+      <point x="48.0" y="307.0" type="line"/>
+      <point x="120.0" y="242.0"/>
+      <point x="173.0" y="152.0"/>
+      <point x="216.0" y="50.0" type="curve"/>
+      <point x="234.0" y="50.0" type="line"/>
+      <point x="218.0" y="128.0"/>
+      <point x="169.0" y="260.0"/>
+    </contour>
+    <contour>
+      <point x="315.0" y="308.0" type="curve"/>
+      <point x="396.0" y="357.0"/>
+      <point x="509.0" y="484.0"/>
+      <point x="554.0" y="562.0" type="curve"/>
+      <point x="536.0" y="562.0" type="line"/>
+      <point x="447.0" y="460.0"/>
+      <point x="354.0" y="375.0"/>
+      <point x="240.0" y="309.0" type="curve"/>
+      <point x="240.0" y="307.0" type="line"/>
+      <point x="312.0" y="242.0"/>
+      <point x="365.0" y="152.0"/>
+      <point x="408.0" y="50.0" type="curve"/>
+      <point x="426.0" y="50.0" type="line"/>
+      <point x="410.0" y="128.0"/>
+      <point x="361.0" y="260.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:07:53</string>
+    </dict>
+  </lib>
+</glyph>

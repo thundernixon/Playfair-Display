@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ka-cy" format="2">
+  <advance width="783.0"/>
+  <unicode hex="041A"/>
+  <anchor x="317.0" y="0.0" name="bottom"/>
+  <anchor x="460.0" y="708.0" name="top"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 00:43:28</string>
+    </dict>
+  </lib>
+</glyph>

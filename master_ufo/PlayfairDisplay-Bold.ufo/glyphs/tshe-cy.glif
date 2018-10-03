@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshe-cy" format="2">
+  <advance width="592.0"/>
+  <unicode hex="045B"/>
+  <anchor x="231.0" y="0.0" name="bottom"/>
+  <anchor x="287.0" y="608.0" name="center"/>
+  <anchor x="436.0" y="771.0" name="top"/>
+  <outline>
+    <component base="hbar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:23:31</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

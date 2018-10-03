@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Endescender-cy" format="2">
+  <advance width="846.0"/>
+  <unicode hex="04A2"/>
+  <anchor x="354.0" y="0.0" name="bottom"/>
+  <anchor x="486.0" y="519.0" name="center"/>
+  <anchor x="533.0" y="708.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="697.0" y="-190.0" type="curve"/>
+      <point x="719.0" y="-190.0" type="line"/>
+      <point x="731.0" y="-126.0"/>
+      <point x="755.0" y="-34.0"/>
+      <point x="776.0" y="20.0" type="curve"/>
+      <point x="745.0" y="20.0" type="line" smooth="yes"/>
+      <point x="678.0" y="20.0"/>
+      <point x="667.0" y="33.0"/>
+      <point x="685.0" y="106.0" type="curve"/>
+      <point x="513.0" y="3.0" type="line"/>
+      <point x="659.0" y="3.0"/>
+      <point x="709.0" y="-46.0"/>
+    </contour>
+    <component base="En-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 15:44:12</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

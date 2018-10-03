@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucaron" format="2">
+  <advance width="617.0"/>
+  <unicode hex="01D4"/>
+  <anchor x="274.0" y="0.0" name="bottom"/>
+  <anchor x="472.0" y="0.0" name="ogonek"/>
+  <anchor x="407.0" y="758.0" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="caroncomb" xOffset="71.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 17:25:12</string>
+    </dict>
+  </lib>
+</glyph>

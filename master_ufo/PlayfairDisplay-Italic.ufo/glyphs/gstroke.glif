@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gstroke" format="2">
+  <advance width="449.0"/>
+  <unicode hex="01E5"/>
+  <anchor x="107.0" y="-195.0" name="bottom"/>
+  <anchor x="286.0" y="514.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="425.0" y="-55.0" type="line"/>
+      <point x="-153.0" y="-55.0" type="line"/>
+      <point x="-157.0" y="-75.0" type="line"/>
+      <point x="421.0" y="-75.0" type="line"/>
+    </contour>
+    <component base="g"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 20:55:32</string>
+    </dict>
+  </lib>
+</glyph>

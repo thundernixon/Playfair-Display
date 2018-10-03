@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ha-cy" format="2">
+  <advance width="591.0"/>
+  <unicode hex="0445"/>
+  <anchor x="152.0" y="0.0" name="bottom"/>
+  <anchor x="321.0" y="519.0" name="top"/>
+  <outline>
+    <component base="x"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/09/30 19:51:17</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+  <advance width="491.0"/>
+  <unicode hex="0140"/>
+  <anchor x="109.0" y="0.0" name="bottom"/>
+  <anchor x="298.0" y="519.0" name="right"/>
+  <anchor x="269.0" y="771.0" name="top"/>
+  <anchor x="372.0" y="771.0" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="period" xOffset="292.0" yOffset="221.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/08/07 17:55:42</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

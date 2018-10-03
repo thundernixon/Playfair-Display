@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ie-cy.smcp" format="2">
+  <advance width="619.0"/>
+  <anchor x="280.0" y="0.0" name="bottom"/>
+  <anchor x="451.0" y="0.0" name="ogonek"/>
+  <anchor x="401.0" y="608.0" name="top"/>
+  <outline>
+    <component base="e.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 17:42:29</string>
+    </dict>
+  </lib>
+</glyph>

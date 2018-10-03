@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucaron.smcp" format="2">
+  <advance width="707.0"/>
+  <anchor x="321.0" y="0.0" name="bottom"/>
+  <anchor x="390.0" y="0.0" name="ogonek"/>
+  <anchor x="526.0" y="828.0" name="top"/>
+  <outline>
+    <component base="u.smcp"/>
+    <component base="caroncomb.smcp" xOffset="168.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:52:14</string>
+    </dict>
+  </lib>
+</glyph>

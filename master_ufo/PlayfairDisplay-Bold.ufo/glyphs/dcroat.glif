@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="603.0"/>
+  <unicode hex="0111"/>
+  <anchor x="237.0" y="0.0" name="bottom"/>
+  <anchor x="471.0" y="608.0" name="center"/>
+  <anchor x="401.0" y="771.0" name="top"/>
+  <anchor x="649.0" y="771.0" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="strokeshortoverlaycomb" xOffset="154.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 15:36:38</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

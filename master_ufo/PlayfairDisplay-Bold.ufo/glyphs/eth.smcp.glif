@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.smcp" format="2">
+  <advance width="808.0"/>
+  <anchor x="339.0" y="0.0" name="bottom"/>
+  <anchor x="231.0" y="307.0" name="center"/>
+  <anchor x="428.0" y="608.0" name="top"/>
+  <outline>
+    <component base="d.smcp"/>
+    <component base="strokeshortoverlaycomb.smcp" xOffset="-17.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D.smcp</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D.smcp</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 15:33:40</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

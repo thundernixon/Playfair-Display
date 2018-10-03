@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft.smcp" format="2">
+  <advance width="312.0"/>
+  <outline>
+    <contour>
+      <point x="362.0" y="662.0" type="line"/>
+      <point x="192.0" y="662.0" type="line"/>
+      <point x="14.0" y="-54.0" type="line"/>
+      <point x="184.0" y="-54.0" type="line"/>
+      <point x="188.0" y="-35.0" type="line"/>
+      <point x="107.0" y="-35.0" type="line"/>
+      <point x="277.0" y="643.0" type="line"/>
+      <point x="358.0" y="643.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:07:52</string>
+    </dict>
+  </lib>
+</glyph>

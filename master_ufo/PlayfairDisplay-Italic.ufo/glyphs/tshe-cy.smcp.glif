@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshe-cy.smcp" format="2">
+  <advance width="775.0"/>
+  <outline>
+    <contour>
+      <point x="338.0" y="593.0" type="curve"/>
+      <point x="200.0" y="116.0" type="line" smooth="yes"/>
+      <point x="178.0" y="40.0"/>
+      <point x="157.0" y="23.0"/>
+      <point x="73.0" y="20.0" type="curve"/>
+      <point x="69.0" y="0.0" type="line"/>
+      <point x="101.0" y="2.0"/>
+      <point x="158.0" y="3.0"/>
+      <point x="215.0" y="3.0" type="curve" smooth="yes"/>
+      <point x="272.0" y="3.0"/>
+      <point x="329.0" y="2.0"/>
+      <point x="364.0" y="0.0" type="curve"/>
+      <point x="368.0" y="20.0" type="line"/>
+      <point x="284.0" y="21.0"/>
+      <point x="272.0" y="42.0"/>
+      <point x="293.0" y="116.0" type="curve" smooth="yes"/>
+      <point x="425.0" y="572.0" type="line"/>
+      <point x="425.0" y="572.0"/>
+      <point x="338.0" y="593.0"/>
+    </contour>
+    <contour>
+      <point x="624.0" y="606.0" type="curve"/>
+      <point x="599.0" y="591.0"/>
+      <point x="575.0" y="584.0"/>
+      <point x="529.0" y="584.0" type="curve" smooth="yes"/>
+      <point x="438.0" y="584.0"/>
+      <point x="346.0" y="612.0"/>
+      <point x="243.0" y="612.0" type="curve" smooth="yes"/>
+      <point x="223.0" y="612.0"/>
+      <point x="172.0" y="611.0"/>
+      <point x="131.0" y="589.0" type="curve" smooth="yes"/>
+      <point x="93.0" y="569.0"/>
+      <point x="79.0" y="540.0"/>
+      <point x="79.0" y="511.0" type="curve" smooth="yes"/>
+      <point x="79.0" y="481.0"/>
+      <point x="95.0" y="461.0"/>
+      <point x="123.0" y="461.0" type="curve" smooth="yes"/>
+      <point x="158.0" y="461.0"/>
+      <point x="173.0" y="492.0"/>
+      <point x="173.0" y="519.0" type="curve" smooth="yes"/>
+      <point x="173.0" y="539.0"/>
+      <point x="165.0" y="563.0"/>
+      <point x="155.0" y="577.0" type="curve"/>
+      <point x="176.0" y="589.0"/>
+      <point x="212.0" y="594.0"/>
+      <point x="247.0" y="594.0" type="curve" smooth="yes"/>
+      <point x="334.0" y="594.0"/>
+      <point x="433.0" y="564.0"/>
+      <point x="527.0" y="564.0" type="curve" smooth="yes"/>
+      <point x="584.0" y="564.0"/>
+      <point x="616.0" y="575.0"/>
+      <point x="647.0" y="596.0" type="curve"/>
+      <point x="673.0" y="615.0"/>
+      <point x="693.0" y="640.0"/>
+      <point x="693.0" y="670.0" type="curve" smooth="yes"/>
+      <point x="693.0" y="695.0"/>
+      <point x="679.0" y="717.0"/>
+      <point x="648.0" y="717.0" type="curve" smooth="yes"/>
+      <point x="614.0" y="717.0"/>
+      <point x="599.0" y="689.0"/>
+      <point x="599.0" y="662.0" type="curve" smooth="yes"/>
+      <point x="599.0" y="639.0"/>
+      <point x="611.0" y="619.0"/>
+    </contour>
+    <contour>
+      <point x="646.0" y="93.0" type="curve" smooth="yes"/>
+      <point x="665.0" y="168.0" type="line" smooth="yes"/>
+      <point x="682.0" y="234.0"/>
+      <point x="682.0" y="281.0"/>
+      <point x="652.0" y="318.0" type="curve" smooth="yes"/>
+      <point x="627.0" y="349.0"/>
+      <point x="583.0" y="367.0"/>
+      <point x="527.0" y="367.0" type="curve" smooth="yes"/>
+      <point x="460.0" y="367.0"/>
+      <point x="386.0" y="341.0"/>
+      <point x="348.0" y="318.0" type="curve"/>
+      <point x="344.0" y="301.0" type="line"/>
+      <point x="375.0" y="322.0"/>
+      <point x="429.0" y="335.0"/>
+      <point x="478.0" y="335.0" type="curve" smooth="yes"/>
+      <point x="592.0" y="335.0"/>
+      <point x="602.0" y="266.0"/>
+      <point x="575.0" y="171.0" type="curve" smooth="yes"/>
+      <point x="553.0" y="93.0" type="line" smooth="yes"/>
+      <point x="538.0" y="40.0"/>
+      <point x="519.0" y="21.0"/>
+      <point x="467.0" y="21.0" type="curve"/>
+      <point x="462.0" y="0.0" type="line"/>
+      <point x="483.0" y="1.0"/>
+      <point x="531.0" y="4.0"/>
+      <point x="575.0" y="4.0" type="curve" smooth="yes"/>
+      <point x="619.0" y="4.0"/>
+      <point x="674.0" y="1.0"/>
+      <point x="697.0" y="0.0" type="curve"/>
+      <point x="702.0" y="21.0" type="line"/>
+      <point x="645.0" y="21.0"/>
+      <point x="632.0" y="38.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 00:58:14</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>1.0</real>
+            <real>35.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>1.0</real>
+            <real>14.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>u</string>
+            <string>p</string>
+          </array>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>2.0</real>
+            <real>6.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <string>d</string>
+            <string>o</string>
+            <string>w</string>
+            <string>n</string>
+          </array>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>4.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>3.0</real>
+          </array>
+          <key>type</key>
+          <string></string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

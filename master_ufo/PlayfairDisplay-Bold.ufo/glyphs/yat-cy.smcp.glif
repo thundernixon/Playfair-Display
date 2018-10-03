@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yat-cy.smcp" format="2">
+  <advance width="681.0"/>
+  <outline>
+    <contour>
+      <point x="51.0" y="461.0" type="line"/>
+      <point x="486.0" y="461.0" type="line"/>
+      <point x="490.0" y="481.0" type="line"/>
+      <point x="55.0" y="481.0" type="line"/>
+    </contour>
+    <component base="softsign-cy.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/02 19:28:56</string>
+    </dict>
+  </lib>
+</glyph>

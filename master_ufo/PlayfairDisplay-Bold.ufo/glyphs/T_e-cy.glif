@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Te-cy" format="2">
+  <advance width="695.0"/>
+  <unicode hex="0422"/>
+  <anchor x="320.0" y="0.0" name="bottom"/>
+  <anchor x="409.0" y="354.0" name="center"/>
+  <anchor x="486.0" y="708.0" name="top"/>
+  <outline>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 18:57:25</string>
+    </dict>
+  </lib>
+</glyph>

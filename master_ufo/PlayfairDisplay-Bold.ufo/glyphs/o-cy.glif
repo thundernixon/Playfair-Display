@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o-cy" format="2">
+  <advance width="557.0"/>
+  <unicode hex="043E"/>
+  <anchor x="188.0" y="0.0" name="bottom"/>
+  <anchor x="275.0" y="260.0" name="center"/>
+  <anchor x="354.0" y="519.0" name="top"/>
+  <anchor x="602.0" y="519.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 17:37:06</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot.smcp" format="2">
+  <advance width="607.0"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="258.0" y="608.0" name="top"/>
+  <anchor x="363.0" y="608.0" name="topright"/>
+  <outline>
+    <component base="l.smcp"/>
+    <component base="period" xOffset="460.0" yOffset="290.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l.smcp</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l.smcp</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:49:27</string>
+    </dict>
+  </lib>
+</glyph>

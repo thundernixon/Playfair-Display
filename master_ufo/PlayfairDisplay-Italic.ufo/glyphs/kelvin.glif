@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kelvin" format="2">
+  <advance width="675.0"/>
+  <unicode hex="212A"/>
+  <anchor x="262.0" y="0.0" name="bottom"/>
+  <anchor x="450.0" y="708.0" name="top"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 16:27:03</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="es-cy.smcp" format="2">
+  <advance width="665.0"/>
+  <anchor x="278.0" y="0.0" name="bottom"/>
+  <anchor x="449.0" y="608.0" name="top"/>
+  <outline>
+    <component base="c.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 19:17:04</string>
+    </dict>
+  </lib>
+</glyph>

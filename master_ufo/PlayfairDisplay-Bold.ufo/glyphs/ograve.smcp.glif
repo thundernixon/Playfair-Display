@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve.smcp" format="2">
+  <advance width="811.0"/>
+  <anchor x="336.0" y="0.0" name="bottom"/>
+  <anchor x="408.0" y="306.0" name="center"/>
+  <anchor x="566.0" y="828.0" name="top"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="gravecomb.smcp" xOffset="177.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:49:56</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotbelow.smcp" format="2">
+  <advance width="644.0"/>
+  <anchor x="256.0" y="-191.0" name="bottom"/>
+  <anchor x="492.0" y="0.0" name="ogonek"/>
+  <anchor x="408.0" y="608.0" name="top"/>
+  <outline>
+    <component base="e.smcp"/>
+    <component base="dotbelowcomb" xOffset="269.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/02 17:24:02</string>
+    </dict>
+  </lib>
+</glyph>

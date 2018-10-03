@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ushort-cy.smcp" format="2">
+  <advance width="623.0"/>
+  <anchor x="405.0" y="608.0" name="top"/>
+  <outline>
+    <component base="u-cy.smcp"/>
+    <component base="breve-cy.smcp" xOffset="99.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:26:28</string>
+    </dict>
+  </lib>
+</glyph>

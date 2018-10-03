@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet.case" format="2">
+  <advance width="443.0"/>
+  <outline>
+    <component base="bullet" xOffset="27.0" yOffset="117.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 13:07:52</string>
+    </dict>
+  </lib>
+</glyph>

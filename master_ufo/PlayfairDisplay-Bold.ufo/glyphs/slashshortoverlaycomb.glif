@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshortoverlaycomb" format="2">
+  <advance width="556.0"/>
+  <unicode hex="0337"/>
+  <anchor x="265.0" y="259.0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="371.0" y="467.0" type="line"/>
+      <point x="381.0" y="450.0" type="line"/>
+      <point x="477.0" y="600.0" type="line"/>
+      <point x="460.0" y="608.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.0" y="458.0" type="line"/>
+      <point x="367.0" y="475.0" type="line"/>
+      <point x="142.0" y="41.0" type="line"/>
+      <point x="152.0" y="23.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="140.0" y="23.0" type="line"/>
+      <point x="130.0" y="41.0" type="line"/>
+      <point x="52.0" y="-81.0" type="line"/>
+      <point x="68.0" y="-90.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 16:40:44</string>
+    </dict>
+  </lib>
+</glyph>

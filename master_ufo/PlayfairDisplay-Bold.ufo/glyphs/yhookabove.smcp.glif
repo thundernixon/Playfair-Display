@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yhookabove.smcp" format="2">
+  <advance width="714.0"/>
+  <anchor x="252.0" y="0.0" name="bottom"/>
+  <anchor x="516.0" y="927.0" name="top"/>
+  <anchor x="111.0" y="608.0" name="topleft"/>
+  <outline>
+    <component base="y.smcp"/>
+    <component base="hookabovecomb" xOffset="189.0" yOffset="89.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:54:31</string>
+    </dict>
+  </lib>
+</glyph>

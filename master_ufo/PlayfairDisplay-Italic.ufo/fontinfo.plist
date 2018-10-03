@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <real>773.0</real>
+    <key>capHeight</key>
+    <real>708.0</real>
+    <key>copyright</key>
+    <string>Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name "Playfair Display".</string>
+    <key>descender</key>
+    <real>-181.0</real>
+    <key>familyName</key>
+    <string>Playfair Display</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <real>-14.0</real>
+    <key>openTypeHeadCreated</key>
+    <string>2017/10/31 16:21:11</string>
+    <key>openTypeHheaAscender</key>
+    <integer>999</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-241</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Claus Eggers Sørensen</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://www.forthehearts.net</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Claus Eggers Sørensen</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://www.forthehearts.net</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>999</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-241</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>FTH</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1072</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>251</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <real>-30.0</real>
+      <real>0.0</real>
+      <real>514.0</real>
+      <real>544.0</real>
+      <real>608.0</real>
+      <real>638.0</real>
+      <real>708.0</real>
+      <real>738.0</real>
+      <real>758.0</real>
+      <real>788.0</real>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <real>-211.0</real>
+      <real>-181.0</real>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>20</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>23</integer>
+      <integer>90</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>20</integer>
+    <key>styleMapFamilyName</key>
+    <string>Playfair Display</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>styleName</key>
+    <string>Italic</string>
+    <key>trademark</key>
+    <string>Playfair is a trademark of Claus Eggers Sørensen.</string>
+    <key>unitsPerEm</key>
+    <integer>1240</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>201</integer>
+    <key>xHeight</key>
+    <real>514.0</real>
+  </dict>
+</plist>

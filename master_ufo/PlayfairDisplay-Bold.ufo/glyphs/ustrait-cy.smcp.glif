@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustrait-cy.smcp" format="2">
+  <advance width="714.0"/>
+  <anchor x="252.0" y="0.0" name="bottom"/>
+  <anchor x="448.0" y="608.0" name="top"/>
+  <anchor x="111.0" y="608.0" name="topleft"/>
+  <outline>
+    <component base="y.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 18:55:03</string>
+    </dict>
+  </lib>
+</glyph>

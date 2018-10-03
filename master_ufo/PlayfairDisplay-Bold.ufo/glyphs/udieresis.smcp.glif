@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis.smcp" format="2">
+  <advance width="707.0"/>
+  <anchor x="321.0" y="0.0" name="bottom"/>
+  <anchor x="390.0" y="0.0" name="ogonek"/>
+  <anchor x="526.0" y="828.0" name="top"/>
+  <outline>
+    <component base="u.smcp"/>
+    <component base="dieresiscomb.smcp" xOffset="127.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/01 00:25:04</string>
+    </dict>
+  </lib>
+</glyph>

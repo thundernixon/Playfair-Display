@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="705.0"/>
+  <unicode hex="0120"/>
+  <anchor x="310.0" y="0.0" name="bottom"/>
+  <anchor x="543.0" y="928.0" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="dotaccentcomb.case" xOffset="298.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/11/02 20:17:34</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflextilde.smcp" format="2">
+  <advance width="732.0"/>
+  <anchor x="296.0" y="0.0" name="bottom"/>
+  <anchor x="363.0" y="302.0" name="center"/>
+  <anchor x="580.0" y="1048.0" name="top"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="circumflexcomb.smcp" xOffset="145.0"/>
+    <component base="tildecomb.smcp" xOffset="224.0" yOffset="220.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/10/31 18:51:11</string>
+    </dict>
+  </lib>
+</glyph>

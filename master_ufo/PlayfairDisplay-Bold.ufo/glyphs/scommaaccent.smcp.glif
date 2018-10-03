@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scommaaccent.smcp" format="2">
+  <advance width="637.0"/>
+  <anchor x="255.0" y="0.0" name="bottom"/>
+  <anchor x="413.0" y="608.0" name="top"/>
+  <outline>
+    <component base="s.smcp"/>
+    <component base="commaaccentcomb.smcp" xOffset="210.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/05/06 14:38:11</string>
+    </dict>
+  </lib>
+</glyph>
