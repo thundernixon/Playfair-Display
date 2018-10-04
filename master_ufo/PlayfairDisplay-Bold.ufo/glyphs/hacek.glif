@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hacek" format="2">
-  <advance width="187.0"/>
-  <anchor x="90.0" y="771.0" name="_topright"/>
+  <advance width="161.0"/>
+  <anchor x="25.0" y="519.0" name="_right"/>
   <outline>
     <contour>
-      <point x="97.0" y="540.0" type="curve"/>
-      <point x="111.0" y="536.0" type="line"/>
-      <point x="223.0" y="632.0"/>
-      <point x="293.0" y="722.0"/>
-      <point x="293.0" y="772.0" type="curve" smooth="yes"/>
-      <point x="293.0" y="777.0"/>
-      <point x="293.0" y="782.0"/>
-      <point x="292.0" y="784.0" type="curve"/>
-      <point x="264.0" y="778.0"/>
-      <point x="232.0" y="772.0"/>
-      <point x="180.0" y="772.0" type="curve" smooth="yes"/>
-      <point x="170.0" y="772.0"/>
-      <point x="160.0" y="773.0"/>
-      <point x="148.0" y="773.0" type="curve"/>
-      <point x="145.0" y="752.0" type="line"/>
-      <point x="155.0" y="752.0"/>
-      <point x="158.0" y="745.0"/>
-      <point x="158.0" y="733.0" type="curve" smooth="yes"/>
-      <point x="158.0" y="708.0"/>
-      <point x="142.0" y="638.0"/>
+      <point x="181.0" y="784.0" type="curve"/>
+      <point x="147.0" y="777.0"/>
+      <point x="116.0" y="770.0"/>
+      <point x="55.0" y="773.0" type="curve"/>
+      <point x="55.0" y="752.0" type="line"/>
+      <point x="72.0" y="752.0"/>
+      <point x="75.0" y="738.0"/>
+      <point x="75.0" y="712.0" type="curve" smooth="yes"/>
+      <point x="75.0" y="694.0"/>
+      <point x="71.0" y="657.0"/>
+      <point x="55.0" y="567.0" type="curve"/>
+      <point x="69.0" y="563.0" type="line"/>
+      <point x="140.0" y="649.0"/>
+      <point x="186.0" y="704.0"/>
+      <point x="186.0" y="743.0" type="curve" smooth="yes"/>
+      <point x="186.0" y="755.0"/>
+      <point x="184.0" y="777.0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:31:04</string>
-    </dict>
-  </lib>
 </glyph>

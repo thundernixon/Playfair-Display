@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright.case" format="2">
-  <advance width="406.0"/>
+  <advance width="346.0"/>
   <outline>
-    <contour>
-      <point x="427.0" y="772.0" type="line"/>
-      <point x="157.0" y="772.0" type="line"/>
-      <point x="153.0" y="753.0" type="line"/>
-      <point x="234.0" y="753.0" type="line"/>
-      <point x="35.0" y="-45.0" type="line"/>
-      <point x="-46.0" y="-45.0" type="line"/>
-      <point x="-50.0" y="-64.0" type="line"/>
-      <point x="220.0" y="-64.0" type="line"/>
-    </contour>
+    <component base="bracketleft.case" xScale="-1.0" xOffset="346.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:07:53</string>
-    </dict>
-  </lib>
 </glyph>

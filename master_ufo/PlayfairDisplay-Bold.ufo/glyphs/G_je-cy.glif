@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gje-cy" format="2">
-  <advance width="575.0"/>
+  <advance width="602.0"/>
   <unicode hex="0403"/>
-  <anchor x="136.0" y="0.0" name="bottomright"/>
-  <anchor x="433.0" y="928.0" name="top"/>
+  <anchor x="288.0" y="928.0" name="top"/>
   <outline>
     <component base="Ge-cy"/>
-    <component base="acutecomb.case" xOffset="215.0"/>
+    <component base="acutecomb.case" xOffset="207.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 17:22:26</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

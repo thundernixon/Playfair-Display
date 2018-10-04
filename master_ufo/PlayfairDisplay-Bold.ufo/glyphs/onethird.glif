@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onethird" format="2">
-  <advance width="686.0"/>
+  <advance width="695.0"/>
   <unicode hex="2153"/>
   <outline>
-    <component base="fraction" xOffset="257.0"/>
-    <component base="one.numr"/>
-    <component base="three.dnom" xOffset="276.0"/>
+    <component base="fraction" xOffset="329.0"/>
+    <component base="onesuperior" xOffset="8.0"/>
+    <component base="three.dnom" xOffset="347.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/10/01 03:01:47</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

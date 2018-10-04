@@ -5,11 +5,13 @@
     <key>com.schriftgestaltung.appVersion</key>
     <string>1082</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>/commaturnedmod</string>
-    </array>
+    <string></string>
+    <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
+    <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.note</key>
     <string>Playfair Display is a transitional design. From the time of enlightenment in the late 18th century, the broad nib quills were replaced by pointed steel pens. This influenced typographical letterforms to become increasingly detached from the written ones. Developments in printing technology, ink and paper making, made it possible to print letterforms of high contrast and fine hairlines.
 
@@ -433,6 +435,7 @@ Playfair includes a full set of small-caps, common ligatures, and discretionary 
       <string>oacute.loclPLK</string>
       <string>sacute.loclPLK</string>
       <string>zacute.loclPLK</string>
+      <string>T_h</string>
       <string>c_t</string>
       <string>f_f</string>
       <string>f_f_i</string>
@@ -441,7 +444,6 @@ Playfair includes a full set of small-caps, common ligatures, and discretionary 
       <string>fl</string>
       <string>s_p</string>
       <string>s_t</string>
-      <string>T_h.liga</string>
       <string>f_b.liga</string>
       <string>f_f_b.liga</string>
       <string>f_f_h.liga</string>
@@ -1092,7 +1094,6 @@ Playfair includes a full set of small-caps, common ligatures, and discretionary 
       <string>cedillacomb</string>
       <string>ogonekcomb</string>
       <string>strokeshortoverlaycomb</string>
-      <string>strokeshortoverlaycomb.case</string>
       <string>strokeshortoverlaycomb.smcp</string>
       <string>slashshortoverlaycomb</string>
       <string>slashlongoverlaycomb</string>
@@ -1135,13 +1136,13 @@ Playfair includes a full set of small-caps, common ligatures, and discretionary 
       <string>circumflexcomb.smcp</string>
       <string>caroncomb.smcp</string>
       <string>brevecomb.smcp</string>
-      <string>ringcomb.smcp</string>
-      <string>tildecomb.smcp</string>
       <string>macroncomb.smcp</string>
       <string>commaaccentcomb.smcp</string>
       <string>cedillacomb.smcp</string>
       <string>ogonekcomb.smcp</string>
       <string>acutecomb.loclPLK.smcp</string>
+      <string>ring.smcp</string>
+      <string>tilde.smcp</string>
       <string>strokelongoverlaycomb.case</string>
       <string>strokelongoverlaycomb.smcp</string>
       <string>breve-cy</string>
@@ -1151,6 +1152,9 @@ Playfair includes a full set of small-caps, common ligatures, and discretionary 
       <string>hacek</string>
       <string>hacek.case</string>
       <string>hacek.smcp</string>
+      <string>slashL</string>
+      <string>slashl</string>
+      <string>slashL.smcp</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -1898,8 +1902,6 @@ Playfair includes a full set of small-caps, common ligatures, and discretionary 
       <string>uni030A</string>
       <key>ringcomb.case</key>
       <string>uni030A.case</string>
-      <key>ringcomb.smcp</key>
-      <string>uni030A.smcp</string>
       <key>rupeeIndian</key>
       <string>uni20B9</string>
       <key>rupeeIndian.smcp</key>

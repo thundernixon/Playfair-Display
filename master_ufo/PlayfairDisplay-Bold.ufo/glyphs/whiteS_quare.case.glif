@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="whiteSquare.case" format="2">
-  <advance width="627.0"/>
+  <advance width="567.0"/>
   <outline>
     <contour>
-      <point x="124.0" y="564.0" type="line"/>
-      <point x="124.0" y="148.0" type="line"/>
-      <point x="541.0" y="148.0" type="line"/>
-      <point x="541.0" y="564.0" type="line"/>
+      <point x="492.0" y="564.0" type="line"/>
+      <point x="75.0" y="564.0" type="line"/>
+      <point x="75.0" y="148.0" type="line"/>
+      <point x="492.0" y="148.0" type="line"/>
     </contour>
     <contour>
-      <point x="144.0" y="167.0" type="line"/>
-      <point x="144.0" y="545.0" type="line"/>
-      <point x="521.0" y="545.0" type="line"/>
-      <point x="521.0" y="167.0" type="line"/>
+      <point x="472.0" y="545.0" type="line"/>
+      <point x="472.0" y="167.0" type="line"/>
+      <point x="95.0" y="167.0" type="line"/>
+      <point x="95.0" y="545.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:07:53</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ibreve.smcp" format="2">
-  <advance width="420.0"/>
-  <anchor x="128.0" y="0.0" name="bottom"/>
-  <anchor x="296.0" y="0.0" name="ogonek"/>
-  <anchor x="352.0" y="751.0" name="top"/>
+  <advance width="393.0"/>
+  <anchor x="197.0" y="0.0" name="bottom"/>
+  <anchor x="344.0" y="0.0" name="ogonek"/>
+  <anchor x="196.0" y="751.0" name="top"/>
   <outline>
     <component base="i.smcp"/>
-    <component base="brevecomb.smcp" xOffset="-8.0"/>
+    <component base="brevecomb.smcp" xOffset="-28.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 18:48:59</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
-  <advance width="603.0"/>
+  <advance width="609.0"/>
   <unicode hex="010F"/>
-  <anchor x="237.0" y="0.0" name="bottom"/>
-  <anchor x="471.0" y="608.0" name="center"/>
-  <anchor x="401.0" y="771.0" name="top"/>
-  <anchor x="649.0" y="771.0" name="topright"/>
+  <anchor x="575.0" y="608.0" name="bar-right"/>
+  <anchor x="305.0" y="0.0" name="bottom"/>
+  <anchor x="398.0" y="618.0" name="center"/>
+  <anchor x="305.0" y="758.0" name="top"/>
+  <anchor x="574.0" y="758.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="hacek" xOffset="559.0"/>
+    <component base="hacek" xOffset="523.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:35:43</string>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

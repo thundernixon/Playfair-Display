@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="2">
-  <advance width="365.0"/>
+  <advance width="353.0"/>
   <unicode hex="0167"/>
-  <anchor x="117.0" y="0.0" name="bottom"/>
-  <anchor x="181.0" y="348.0" name="center"/>
-  <anchor x="299.0" y="771.0" name="top"/>
-  <anchor x="375.0" y="791.0" name="topright"/>
+  <anchor x="218.0" y="0.0" name="bottom"/>
+  <anchor x="177.0" y="357.0" name="center"/>
+  <anchor x="352.0" y="519.0" name="right"/>
+  <anchor x="171.0" y="758.0" name="top"/>
+  <anchor x="300.0" y="758.0" name="topright"/>
   <outline>
     <contour>
-      <point x="398.0" y="421.0" type="line"/>
-      <point x="30.0" y="421.0" type="line"/>
-      <point x="25.0" y="401.0" type="line"/>
-      <point x="395.0" y="401.0" type="line"/>
+      <point x="352.0" y="421.0" type="line"/>
+      <point x="-2.0" y="421.0" type="line"/>
+      <point x="-2.0" y="401.0" type="line"/>
+      <point x="352.0" y="401.0" type="line"/>
     </contour>
-    <component base="t"/>
+    <component base="t" xOffset="2.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 15:32:57</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>

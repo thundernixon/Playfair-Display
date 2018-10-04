@@ -1,51 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb.case" format="2">
-  <anchor x="247.0" y="708.0" name="_right"/>
-  <anchor x="280.0" y="708.0" name="_top"/>
-  <anchor x="345.0" y="977.0" name="top"/>
+  <anchor x="151.0" y="708.0" name="_right"/>
+  <anchor x="184.0" y="708.0" name="_top"/>
+  <anchor x="182.0" y="977.0" name="top"/>
   <outline>
     <contour>
-      <point x="275.0" y="739.0" type="curve"/>
-      <point x="295.0" y="739.0" type="line"/>
-      <point x="311.0" y="836.0"/>
-      <point x="470.0" y="802.0"/>
-      <point x="470.0" y="899.0" type="curve" smooth="yes"/>
-      <point x="470.0" y="953.0"/>
-      <point x="420.0" y="977.0"/>
-      <point x="345.0" y="977.0" type="curve" smooth="yes"/>
-      <point x="301.0" y="977.0"/>
-      <point x="263.0" y="969.0"/>
-      <point x="231.0" y="954.0" type="curve" smooth="yes"/>
-      <point x="197.0" y="938.0"/>
-      <point x="171.0" y="914.0"/>
-      <point x="171.0" y="881.0" type="curve" smooth="yes"/>
-      <point x="171.0" y="850.0"/>
-      <point x="193.0" y="830.0"/>
-      <point x="226.0" y="830.0" type="curve" smooth="yes"/>
-      <point x="263.0" y="830.0"/>
-      <point x="295.0" y="854.0"/>
-      <point x="295.0" y="892.0" type="curve" smooth="yes"/>
-      <point x="295.0" y="920.0"/>
-      <point x="278.0" y="938.0"/>
-      <point x="253.0" y="948.0" type="curve"/>
-      <point x="260.0" y="952.0"/>
-      <point x="277.0" y="957.0"/>
-      <point x="298.0" y="957.0" type="curve" smooth="yes"/>
-      <point x="337.0" y="957.0"/>
-      <point x="361.0" y="939.0"/>
-      <point x="361.0" y="893.0" type="curve" smooth="yes"/>
-      <point x="361.0" y="814.0"/>
-      <point x="289.0" y="822.0"/>
+      <point x="164.0" y="759.0" type="line"/>
+      <point x="184.0" y="759.0" type="line"/>
+      <point x="184.0" y="805.0" type="line"/>
+      <point x="266.0" y="818.0"/>
+      <point x="339.0" y="848.0"/>
+      <point x="339.0" y="899.0" type="curve" smooth="yes"/>
+      <point x="339.0" y="947.0"/>
+      <point x="274.0" y="977.0"/>
+      <point x="182.0" y="977.0" type="curve" smooth="yes"/>
+      <point x="137.0" y="977.0"/>
+      <point x="103.0" y="970.0"/>
+      <point x="76.0" y="954.0" type="curve" smooth="yes"/>
+      <point x="56.0" y="942.0"/>
+      <point x="35.0" y="921.0"/>
+      <point x="35.0" y="888.0" type="curve" smooth="yes"/>
+      <point x="35.0" y="854.0"/>
+      <point x="58.0" y="830.0"/>
+      <point x="94.0" y="830.0" type="curve" smooth="yes"/>
+      <point x="128.0" y="830.0"/>
+      <point x="155.0" y="852.0"/>
+      <point x="155.0" y="887.0" type="curve" smooth="yes"/>
+      <point x="155.0" y="917.0"/>
+      <point x="137.0" y="937.0"/>
+      <point x="105.0" y="946.0" type="curve"/>
+      <point x="110.0" y="951.0"/>
+      <point x="127.0" y="957.0"/>
+      <point x="151.0" y="957.0" type="curve" smooth="yes"/>
+      <point x="193.0" y="957.0"/>
+      <point x="230.0" y="938.0"/>
+      <point x="230.0" y="894.0" type="curve" smooth="yes"/>
+      <point x="230.0" y="866.0"/>
+      <point x="216.0" y="838.0"/>
+      <point x="164.0" y="814.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 17:00:02</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <real>374.0</real>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

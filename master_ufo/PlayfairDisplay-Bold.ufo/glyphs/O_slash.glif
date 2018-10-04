@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="2">
-  <advance width="809.0"/>
+  <advance width="827.0"/>
   <unicode hex="00D8"/>
-  <anchor x="335.0" y="0.0" name="bottom"/>
-  <anchor x="506.0" y="708.0" name="top"/>
+  <anchor x="415.0" y="0.0" name="bottom"/>
+  <anchor x="412.0" y="708.0" name="top"/>
   <outline>
     <component base="O"/>
     <component base="slashlongoverlaycomb"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 15:19:17</string>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
     </dict>

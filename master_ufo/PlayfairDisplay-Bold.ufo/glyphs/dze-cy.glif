@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dze-cy" format="2">
-  <advance width="446.0"/>
+  <advance width="472.0"/>
   <unicode hex="0455"/>
-  <anchor x="143.0" y="0.0" name="bottom"/>
-  <anchor x="290.0" y="519.0" name="top"/>
+  <anchor x="236.0" y="0.0" name="bottom"/>
+  <anchor x="236.0" y="519.0" name="top"/>
   <outline>
     <component base="s"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/09/30 19:51:17</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute.loclPLK" format="2">
-  <advance width="662.0"/>
-  <anchor x="260.0" y="0.0" name="bottom"/>
-  <anchor x="483.0" y="928.0" name="top"/>
+  <advance width="607.0"/>
+  <anchor x="310.0" y="0.0" name="bottom"/>
+  <anchor x="306.0" y="928.0" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="acutecomb.loclPLK.case" xOffset="255.0"/>
+    <component base="acutecomb.loclPLK.case" xOffset="253.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:38:11</string>
-    </dict>
-  </lib>
 </glyph>

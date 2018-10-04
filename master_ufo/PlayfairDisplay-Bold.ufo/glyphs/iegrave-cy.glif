@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iegrave-cy" format="2">
-  <advance width="496.0"/>
+  <advance width="503.0"/>
   <unicode hex="0450"/>
-  <anchor x="192.0" y="0.0" name="bottom"/>
-  <anchor x="264.0" y="0.0" name="ogonek"/>
-  <anchor x="407.0" y="758.0" name="top"/>
+  <anchor x="262.0" y="0.0" name="bottom"/>
+  <anchor x="341.0" y="0.0" name="ogonek"/>
+  <anchor x="244.0" y="753.0" name="top"/>
   <outline>
     <component base="ie-cy"/>
-    <component base="gravecomb" xOffset="46.0"/>
+    <component base="gravecomb" xOffset="105.0" yOffset="-5.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 19:15:13</string>
-    </dict>
-  </lib>
 </glyph>

@@ -56,14 +56,6 @@
       <string>atilde.smcp</string>
       <string>angstrom.smcp</string>
     </array>
-    <key>public.kern1.B</key>
-    <array>
-      <string>B</string>
-    </array>
-    <key>public.kern1.B.smcp</key>
-    <array>
-      <string>b.smcp</string>
-    </array>
     <key>public.kern1.C</key>
     <array>
       <string>C</string>
@@ -83,6 +75,20 @@
       <string>ccircumflex.smcp</string>
       <string>cdotaccent.smcp</string>
       <string>cacute.loclPLK.smcp</string>
+    </array>
+    <key>public.kern1.D</key>
+    <array>
+      <string>D</string>
+      <string>Eth</string>
+      <string>Dcaron</string>
+      <string>Dcroat</string>
+    </array>
+    <key>public.kern1.D.smcp</key>
+    <array>
+      <string>d.smcp</string>
+      <string>eth.smcp</string>
+      <string>dcaron.smcp</string>
+      <string>dcroat.smcp</string>
     </array>
     <key>public.kern1.E</key>
     <array>
@@ -135,20 +141,11 @@
       <string>Ezh</string>
       <string>Ezhcaron</string>
     </array>
-    <key>public.kern1.F</key>
-    <array>
-      <string>F</string>
-    </array>
-    <key>public.kern1.F.smcp</key>
-    <array>
-      <string>f.smcp</string>
-    </array>
     <key>public.kern1.G</key>
     <array>
       <string>G</string>
       <string>Gacute</string>
       <string>Gbreve</string>
-      <string>Gcaron</string>
       <string>Gcircumflex</string>
       <string>Gcommaaccent</string>
       <string>Gdotaccent</string>
@@ -159,21 +156,15 @@
       <string>g.smcp</string>
       <string>gacute.smcp</string>
       <string>gbreve.smcp</string>
-      <string>gcaron.smcp</string>
       <string>gcircumflex.smcp</string>
       <string>gcommaaccent.smcp</string>
       <string>gdotaccent.smcp</string>
       <string>gstroke.smcp</string>
     </array>
-    <key>public.kern1.H.smcp</key>
-    <array>
-      <string>eng.smcp</string>
-    </array>
     <key>public.kern1.I</key>
     <array>
       <string>H</string>
       <string>Hbar</string>
-      <string>Hcaron</string>
       <string>Hcircumflex</string>
       <string>I</string>
       <string>Iacute</string>
@@ -181,20 +172,17 @@
       <string>Icircumflex</string>
       <string>Idieresis</string>
       <string>Idotaccent</string>
-      <string>Idotbelow</string>
       <string>Igrave</string>
       <string>Ihookabove</string>
       <string>Imacron</string>
       <string>Iogonek</string>
       <string>Itilde</string>
       <string>M</string>
-      <string>Eng</string>
     </array>
     <key>public.kern1.I.smcp</key>
     <array>
       <string>h.smcp</string>
       <string>hbar.smcp</string>
-      <string>hcaron.smcp</string>
       <string>hcircumflex.smcp</string>
       <string>i.smcp</string>
       <string>iacute.smcp</string>
@@ -215,7 +203,6 @@
       <string>IJ</string>
       <string>J</string>
       <string>Jcircumflex</string>
-      <string>Iacute_J.loclNLD</string>
     </array>
     <key>public.kern1.J.smcp</key>
     <array>
@@ -227,7 +214,6 @@
     <key>public.kern1.K</key>
     <array>
       <string>K</string>
-      <string>Kcaron</string>
       <string>Kcommaaccent</string>
       <string>kelvin</string>
     </array>
@@ -238,12 +224,18 @@
       <string>kcommaaccent.smcp</string>
       <string>kelvin.smcp</string>
     </array>
+    <key>public.kern1.Kadescender-cy</key>
+    <array>
+      <string>Zhedescender-cy</string>
+      <string>Kadescender-cy</string>
+    </array>
     <key>public.kern1.L</key>
     <array>
       <string>L</string>
       <string>Lacute</string>
       <string>Lcaron</string>
       <string>Lcommaaccent</string>
+      <string>Ldot</string>
       <string>Lslash</string>
     </array>
     <key>public.kern1.L.smcp</key>
@@ -260,24 +252,22 @@
       <string>Nacute</string>
       <string>Ncaron</string>
       <string>Ncommaaccent</string>
+      <string>Eng</string>
       <string>Ntilde</string>
       <string>Nacute.loclPLK</string>
-    </array>
-    <key>public.kern1.N.smcp</key>
-    <array>
-      <string>nacute.loclPLK.smcp</string>
       <string>n.smcp</string>
       <string>nacute.smcp</string>
       <string>ncaron.smcp</string>
       <string>ncommaaccent.smcp</string>
+      <string>eng.smcp</string>
       <string>ntilde.smcp</string>
+    </array>
+    <key>public.kern1.N.smcp</key>
+    <array>
+      <string>nacute.loclPLK.smcp</string>
     </array>
     <key>public.kern1.O</key>
     <array>
-      <string>D</string>
-      <string>Eth</string>
-      <string>Dcaron</string>
-      <string>Dcroat</string>
       <string>O</string>
       <string>Oacute</string>
       <string>Obreve</string>
@@ -294,17 +284,13 @@
       <string>Ohungarumlaut</string>
       <string>Omacron</string>
       <string>Oslash</string>
-      <string>Oslashacute</string>
       <string>Otilde</string>
+      <string>Q</string>
       <string>Schwa</string>
       <string>Oacute.loclPLK</string>
     </array>
     <key>public.kern1.O.smcp</key>
     <array>
-      <string>d.smcp</string>
-      <string>eth.smcp</string>
-      <string>dcaron.smcp</string>
-      <string>dcroat.smcp</string>
       <string>schwa.smcp</string>
       <string>oacute.loclPLK.smcp</string>
       <string>o.smcp</string>
@@ -320,11 +306,18 @@
       <string>odotbelow.smcp</string>
       <string>ograve.smcp</string>
       <string>ohookabove.smcp</string>
+      <string>ohorn.smcp</string>
+      <string>ohornacute.smcp</string>
+      <string>ohorndotbelow.smcp</string>
+      <string>ohorngrave.smcp</string>
+      <string>ohornhookabove.smcp</string>
+      <string>ohorntilde.smcp</string>
       <string>ohungarumlaut.smcp</string>
       <string>omacron.smcp</string>
       <string>oslash.smcp</string>
       <string>oslashacute.smcp</string>
       <string>otilde.smcp</string>
+      <string>q.smcp</string>
     </array>
     <key>public.kern1.Ohorn</key>
     <array>
@@ -334,31 +327,7 @@
       <string>Ohorngrave</string>
       <string>Ohornhookabove</string>
       <string>Ohorntilde</string>
-    </array>
-    <key>public.kern1.Ohorn.smcp</key>
-    <array>
-      <string>ohorn.smcp</string>
-      <string>ohornacute.smcp</string>
-      <string>ohorndotbelow.smcp</string>
-      <string>ohorngrave.smcp</string>
-      <string>ohornhookabove.smcp</string>
-      <string>ohorntilde.smcp</string>
-    </array>
-    <key>public.kern1.P</key>
-    <array>
-      <string>P</string>
-    </array>
-    <key>public.kern1.P.smcp</key>
-    <array>
-      <string>p.smcp</string>
-    </array>
-    <key>public.kern1.Q</key>
-    <array>
-      <string>Q</string>
-    </array>
-    <key>public.kern1.Q.smcp</key>
-    <array>
-      <string>q.smcp</string>
+      <string>ohorn</string>
     </array>
     <key>public.kern1.R</key>
     <array>
@@ -410,19 +379,13 @@
       <string>tcedilla.smcp</string>
       <string>tcommaaccent.smcp</string>
     </array>
-    <key>public.kern1.Thorn.smcp</key>
-    <array>
-      <string>thorn.smcp</string>
-    </array>
     <key>public.kern1.U</key>
     <array>
       <string>U</string>
       <string>Uacute</string>
       <string>Ubreve</string>
-      <string>Ucaron</string>
       <string>Ucircumflex</string>
       <string>Udieresis</string>
-      <string>Udotbelow</string>
       <string>Ugrave</string>
       <string>Uhookabove</string>
       <string>Uhungarumlaut</string>
@@ -442,6 +405,12 @@
       <string>udotbelow.smcp</string>
       <string>ugrave.smcp</string>
       <string>uhookabove.smcp</string>
+      <string>uhorn.smcp</string>
+      <string>uhornacute.smcp</string>
+      <string>uhorndotbelow.smcp</string>
+      <string>uhorngrave.smcp</string>
+      <string>uhornhookabove.smcp</string>
+      <string>uhorntilde.smcp</string>
       <string>uhungarumlaut.smcp</string>
       <string>umacron.smcp</string>
       <string>uogonek.smcp</string>
@@ -457,42 +426,21 @@
       <string>Uhornhookabove</string>
       <string>Uhorntilde</string>
     </array>
-    <key>public.kern1.Uhorn.smcp</key>
+    <key>public.kern1.W</key>
     <array>
-      <string>uhorn.smcp</string>
-      <string>uhornacute.smcp</string>
-      <string>uhorndotbelow.smcp</string>
-      <string>uhorngrave.smcp</string>
-      <string>uhornhookabove.smcp</string>
-      <string>uhorntilde.smcp</string>
-    </array>
-    <key>public.kern1.Ustrait-cy</key>
-    <array>
-      <string>Ustrait-cy</string>
-      <string>Ustraitstroke-cy</string>
-    </array>
-    <key>public.kern1.V</key>
-    <array>
-      <string>V</string>
       <string>W</string>
       <string>Wacute</string>
       <string>Wcircumflex</string>
       <string>Wdieresis</string>
       <string>Wgrave</string>
-      <string>v.smcp</string>
+    </array>
+    <key>public.kern1.W.smcp</key>
+    <array>
       <string>w.smcp</string>
       <string>wacute.smcp</string>
       <string>wcircumflex.smcp</string>
       <string>wdieresis.smcp</string>
       <string>wgrave.smcp</string>
-    </array>
-    <key>public.kern1.X</key>
-    <array>
-      <string>X</string>
-    </array>
-    <key>public.kern1.X.smcp</key>
-    <array>
-      <string>x.smcp</string>
     </array>
     <key>public.kern1.Y</key>
     <array>
@@ -500,10 +448,8 @@
       <string>Yacute</string>
       <string>Ycircumflex</string>
       <string>Ydieresis</string>
-      <string>Ydotbelow</string>
       <string>Ygrave</string>
       <string>Yhookabove</string>
-      <string>Ytilde</string>
     </array>
     <key>public.kern1.Y.smcp</key>
     <array>
@@ -536,6 +482,10 @@
       <string>zcaron.smcp</string>
       <string>zdotaccent.smcp</string>
     </array>
+    <key>public.kern1.Zhe-cy</key>
+    <array>
+      <string>Zhe-cy</string>
+    </array>
     <key>public.kern1.a</key>
     <array>
       <string>a</string>
@@ -564,7 +514,11 @@
     </array>
     <key>public.kern1.b</key>
     <array>
+      <string>p</string>
+      <string>thorn</string>
       <string>s_p</string>
+      <string>f_b.liga</string>
+      <string>f_f_b.liga</string>
     </array>
     <key>public.kern1.c</key>
     <array>
@@ -594,24 +548,18 @@
       <string>ebreve</string>
       <string>ecaron</string>
       <string>ecircumflex</string>
-      <string>ecircumflexacute</string>
-      <string>ecircumflexdotbelow</string>
-      <string>ecircumflexgrave</string>
-      <string>ecircumflexhookabove</string>
-      <string>ecircumflextilde</string>
       <string>edieresis</string>
       <string>edotaccent</string>
-      <string>edotbelow</string>
       <string>egrave</string>
       <string>ehookabove</string>
       <string>emacron</string>
       <string>eogonek</string>
-      <string>etilde</string>
       <string>oe</string>
     </array>
-    <key>public.kern1.eth</key>
+    <key>public.kern1.endescender-cy</key>
     <array>
-      <string>eth</string>
+      <string>endescender-cy</string>
+      <string>entail-cy</string>
     </array>
     <key>public.kern1.ezh</key>
     <array>
@@ -635,23 +583,10 @@
       <string>g</string>
       <string>gacute</string>
       <string>gbreve</string>
-      <string>gcaron</string>
       <string>gcircumflex</string>
       <string>gcommaaccent</string>
       <string>gdotaccent</string>
       <string>gstroke</string>
-    </array>
-    <key>public.kern1.germandbls</key>
-    <array>
-      <string>germandbls</string>
-    </array>
-    <key>public.kern1.germandbls.cap</key>
-    <array>
-      <string>Germandbls</string>
-    </array>
-    <key>public.kern1.germandbls.smcp</key>
-    <array>
-      <string>germandbls.smcp</string>
     </array>
     <key>public.kern1.guilsinglleft</key>
     <array>
@@ -683,15 +618,6 @@
       <string>guillemetright.smcp</string>
       <string>guilsinglright.smcp</string>
     </array>
-    <key>public.kern1.h</key>
-    <array>
-      <string>T_h.liga</string>
-    </array>
-    <key>public.kern1.hacek</key>
-    <array>
-      <string>dcaron</string>
-      <string>lcaron</string>
-    </array>
     <key>public.kern1.hyphen</key>
     <array>
       <string>hyphen</string>
@@ -699,20 +625,20 @@
       <string>endash</string>
       <string>emdash</string>
       <string>hyphentwo</string>
+      <string>hyphentwo.case</string>
+      <string>hyphentwo.smcp</string>
     </array>
     <key>public.kern1.hyphen.cap</key>
     <array>
       <string>hyphen.case</string>
       <string>endash.case</string>
       <string>emdash.case</string>
-      <string>hyphentwo.case</string>
     </array>
     <key>public.kern1.hyphen.smcp</key>
     <array>
       <string>hyphen.smcp</string>
       <string>endash.smcp</string>
       <string>emdash.smcp</string>
-      <string>hyphentwo.smcp</string>
     </array>
     <key>public.kern1.i</key>
     <array>
@@ -723,12 +649,24 @@
       <string>icircumflex</string>
       <string>idieresis</string>
       <string>idotaccent</string>
-      <string>idotbelow</string>
       <string>igrave</string>
       <string>ihookabove</string>
       <string>imacron</string>
       <string>iogonek</string>
       <string>itilde</string>
+      <string>u</string>
+      <string>uacute</string>
+      <string>ubreve</string>
+      <string>ucircumflex</string>
+      <string>udieresis</string>
+      <string>udotbelow</string>
+      <string>ugrave</string>
+      <string>uhookabove</string>
+      <string>uhungarumlaut</string>
+      <string>umacron</string>
+      <string>uogonek</string>
+      <string>uring</string>
+      <string>utilde</string>
       <string>f_f_i</string>
       <string>fi</string>
       <string>f_idieresis.liga</string>
@@ -750,11 +688,15 @@
     <key>public.kern1.k</key>
     <array>
       <string>k</string>
-      <string>kcaron</string>
       <string>kcommaaccent</string>
       <string>kgreenlandic</string>
       <string>f_f_k.liga</string>
       <string>f_k.liga</string>
+    </array>
+    <key>public.kern1.kadescender-cy.smcp</key>
+    <array>
+      <string>zhedescender-cy.smcp</string>
+      <string>kadescender-cy.smcp</string>
     </array>
     <key>public.kern1.l</key>
     <array>
@@ -767,15 +709,19 @@
       <string>longs_l.liga</string>
       <string>longs_longs_l.liga</string>
     </array>
-    <key>public.kern1.ldot</key>
+    <key>public.kern1.l.smcp</key>
     <array>
-      <string>ldot</string>
+      <string>ldot.smcp</string>
+    </array>
+    <key>public.kern1.lcaron</key>
+    <array>
+      <string>dcaron</string>
+      <string>lcaron</string>
     </array>
     <key>public.kern1.n</key>
     <array>
       <string>h</string>
       <string>hbar</string>
-      <string>hcaron</string>
       <string>hcircumflex</string>
       <string>m</string>
       <string>n</string>
@@ -785,6 +731,7 @@
       <string>ncommaaccent</string>
       <string>ntilde</string>
       <string>nacute.loclPLK</string>
+      <string>T_h</string>
       <string>f_f_h.liga</string>
       <string>f_h.liga</string>
       <string>longs_h.liga</string>
@@ -810,17 +757,11 @@
       <string>ohungarumlaut</string>
       <string>omacron</string>
       <string>oslash</string>
-      <string>oslashacute</string>
       <string>otilde</string>
-      <string>p</string>
-      <string>thorn</string>
       <string>oacute.loclPLK</string>
-      <string>f_b.liga</string>
-      <string>f_f_b.liga</string>
     </array>
     <key>public.kern1.ohorn</key>
     <array>
-      <string>ohorn</string>
       <string>ohornacute</string>
       <string>ohorndotbelow</string>
       <string>ohorngrave</string>
@@ -833,10 +774,6 @@
       <string>comma</string>
       <string>quotesinglbase</string>
       <string>quotedblbase</string>
-    </array>
-    <key>public.kern1.q</key>
-    <array>
-      <string>q</string>
     </array>
     <key>public.kern1.quoteleft</key>
     <array>
@@ -886,28 +823,6 @@
       <string>longs_t.liga</string>
       <string>longs_longs_t.liga</string>
     </array>
-    <key>public.kern1.tshe-cy.smcp</key>
-    <array>
-      <string>tshe-cy.smcp</string>
-      <string>shha-cy.smcp</string>
-    </array>
-    <key>public.kern1.u</key>
-    <array>
-      <string>u</string>
-      <string>uacute</string>
-      <string>ubreve</string>
-      <string>ucaron</string>
-      <string>ucircumflex</string>
-      <string>udieresis</string>
-      <string>udotbelow</string>
-      <string>ugrave</string>
-      <string>uhookabove</string>
-      <string>uhungarumlaut</string>
-      <string>umacron</string>
-      <string>uogonek</string>
-      <string>uring</string>
-      <string>utilde</string>
-    </array>
     <key>public.kern1.uhorn</key>
     <array>
       <string>uhorn</string>
@@ -934,11 +849,11 @@
       <string>De-cy</string>
       <string>Tse-cy</string>
       <string>Shcha-cy</string>
+      <string>Endescender-cy</string>
     </array>
     <key>public.kern1.uni0415</key>
     <array>
       <string>Ie-cy</string>
-      <string>Iegrave-cy</string>
       <string>Io-cy</string>
     </array>
     <key>public.kern1.uni0418</key>
@@ -957,16 +872,11 @@
       <string>I-cy</string>
       <string>Yi-cy</string>
       <string>Ia-cy</string>
-      <string>Endescender-cy</string>
-      <string>Entail-cy</string>
     </array>
     <key>public.kern1.uni041A</key>
     <array>
-      <string>Zhe-cy</string>
       <string>Ka-cy</string>
       <string>Kje-cy</string>
-      <string>Zhedescender-cy</string>
-      <string>Kadescender-cy</string>
     </array>
     <key>public.kern1.uni041E</key>
     <array>
@@ -1000,6 +910,12 @@
       <string>ge-cy.smcp</string>
       <string>gje-cy.smcp</string>
     </array>
+    <key>public.kern1.uni0434</key>
+    <array>
+      <string>de-cy</string>
+      <string>tse-cy</string>
+      <string>shcha-cy</string>
+    </array>
     <key>public.kern1.uni0434.smcp</key>
     <array>
       <string>de-cy.smcp</string>
@@ -1009,13 +925,11 @@
     <key>public.kern1.uni0435</key>
     <array>
       <string>ie-cy</string>
-      <string>iegrave-cy</string>
       <string>io-cy</string>
     </array>
     <key>public.kern1.uni0435.smcp</key>
     <array>
       <string>ie-cy.smcp</string>
-      <string>iegrave-cy.smcp</string>
       <string>io-cy.smcp</string>
     </array>
     <key>public.kern1.uni0438</key>
@@ -1026,14 +940,12 @@
       <string>el-cy</string>
       <string>em-cy</string>
       <string>en-cy</string>
+      <string>pe-cy</string>
       <string>che-cy</string>
-      <string>tse-cy</string>
       <string>sha-cy</string>
-      <string>shcha-cy</string>
       <string>dzhe-cy</string>
       <string>yeru-cy</string>
-      <string>endescender-cy</string>
-      <string>entail-cy</string>
+      <string>ia-cy</string>
     </array>
     <key>public.kern1.uni0438.smcp</key>
     <array>
@@ -1051,6 +963,7 @@
       <string>i-cy.smcp</string>
       <string>yi-cy.smcp</string>
       <string>ia-cy.smcp</string>
+      <string>ghestroke-cy.smcp</string>
       <string>endescender-cy.smcp</string>
       <string>entail-cy.smcp</string>
     </array>
@@ -1065,16 +978,11 @@
       <string>zhe-cy.smcp</string>
       <string>ka-cy.smcp</string>
       <string>kje-cy.smcp</string>
-      <string>zhedescender-cy.smcp</string>
-      <string>kadescender-cy.smcp</string>
     </array>
     <key>public.kern1.uni043E</key>
     <array>
       <string>be-cy</string>
-      <string>de-cy</string>
       <string>o-cy</string>
-      <string>er-cy</string>
-      <string>ef-cy</string>
       <string>ereversed-cy</string>
       <string>iu-cy</string>
       <string>schwa-cy</string>
@@ -1088,18 +996,17 @@
       <string>schwa-cy.smcp</string>
       <string>obarred-cy.smcp</string>
     </array>
-    <key>public.kern1.uni043F</key>
+    <key>public.kern1.uni0440</key>
     <array>
-      <string>pe-cy</string>
-      <string>te-cy</string>
-      <string>tshe-cy</string>
-      <string>ia-cy</string>
-      <string>shha-cy</string>
+      <string>er-cy</string>
+      <string>ef-cy</string>
     </array>
     <key>public.kern1.uni0443</key>
     <array>
       <string>u-cy</string>
       <string>ushort-cy</string>
+      <string>ustrait-cy</string>
+      <string>ustraitstroke-cy</string>
     </array>
     <key>public.kern1.uni0443.smcp</key>
     <array>
@@ -1112,7 +1019,6 @@
       <string>hardsign-cy</string>
       <string>lje-cy</string>
       <string>nje-cy</string>
-      <string>yat-cy</string>
     </array>
     <key>public.kern1.uni044C.smcp</key>
     <array>
@@ -1127,12 +1033,17 @@
       <string>i-cy</string>
       <string>yi-cy</string>
     </array>
-    <key>public.kern1.uni04AF</key>
+    <key>public.kern1.uni045B</key>
     <array>
-      <string>ustrait-cy</string>
-      <string>ustraitstroke-cy</string>
+      <string>tshe-cy</string>
+      <string>shha-cy</string>
     </array>
-    <key>public.kern1.ustrait-cy.smcp</key>
+    <key>public.kern1.uni04AE</key>
+    <array>
+      <string>Ustrait-cy</string>
+      <string>Ustraitstroke-cy</string>
+    </array>
+    <key>public.kern1.uni04AE.smcp</key>
     <array>
       <string>ustrait-cy.smcp</string>
       <string>ustraitstroke-cy.smcp</string>
@@ -1145,13 +1056,6 @@
       <string>wcircumflex</string>
       <string>wdieresis</string>
       <string>wgrave</string>
-    </array>
-    <key>public.kern1.x</key>
-    <array>
-      <string>x</string>
-    </array>
-    <key>public.kern1.y</key>
-    <array>
       <string>y</string>
       <string>yacute</string>
       <string>ycircumflex</string>
@@ -1159,15 +1063,10 @@
       <string>ydotbelow</string>
       <string>ygrave</string>
       <string>yhookabove</string>
-      <string>ytilde</string>
     </array>
     <key>public.kern1.yusbig-cy</key>
     <array>
       <string>yusbig-cy</string>
-    </array>
-    <key>public.kern1.yusbig-cy.smcp</key>
-    <array>
-      <string>yusbig-cy.smcp</string>
     </array>
     <key>public.kern1.z</key>
     <array>
@@ -1180,8 +1079,6 @@
     <key>public.kern1.zhe-cy</key>
     <array>
       <string>zhe-cy</string>
-      <string>es-cy</string>
-      <string>e-cy</string>
       <string>zhedescender-cy</string>
     </array>
     <key>public.kern2.A</key>
@@ -1246,10 +1143,6 @@
     <array>
       <string>ae.smcp</string>
     </array>
-    <key>public.kern2.C.smcp</key>
-    <array>
-      <string>cacute.loclPLK.smcp</string>
-    </array>
     <key>public.kern2.Ezh</key>
     <array>
       <string>Ezh</string>
@@ -1283,41 +1176,46 @@
       <string>F</string>
       <string>H</string>
       <string>Hbar</string>
-      <string>Hcaron</string>
       <string>Hcircumflex</string>
       <string>I</string>
+      <string>IJ</string>
       <string>Iacute</string>
       <string>Ibreve</string>
       <string>Icircumflex</string>
       <string>Idieresis</string>
       <string>Idotaccent</string>
-      <string>Idotbelow</string>
       <string>Igrave</string>
       <string>Ihookabove</string>
       <string>Imacron</string>
       <string>Iogonek</string>
       <string>Itilde</string>
       <string>K</string>
-      <string>Kcaron</string>
       <string>Kcommaaccent</string>
       <string>L</string>
       <string>Lacute</string>
       <string>Lcaron</string>
       <string>Lcommaaccent</string>
-      <string>Ldot</string>
       <string>Lslash</string>
       <string>M</string>
+      <string>N</string>
+      <string>Nacute</string>
+      <string>Ncaron</string>
+      <string>Ncommaaccent</string>
       <string>Eng</string>
+      <string>Ntilde</string>
       <string>P</string>
       <string>Thorn</string>
       <string>R</string>
       <string>Racute</string>
       <string>Rcaron</string>
       <string>Rcommaaccent</string>
+      <string>Iacute_J.loclNLD</string>
+      <string>Nacute.loclPLK</string>
       <string>kelvin</string>
     </array>
     <key>public.kern2.I.smcp</key>
     <array>
+      <string>iacute_j.smcp.loclNLD</string>
       <string>b.smcp</string>
       <string>d.smcp</string>
       <string>eth.smcp</string>
@@ -1344,7 +1242,6 @@
       <string>f.smcp</string>
       <string>h.smcp</string>
       <string>hbar.smcp</string>
-      <string>hcaron.smcp</string>
       <string>hcircumflex.smcp</string>
       <string>i.smcp</string>
       <string>iacute.smcp</string>
@@ -1355,6 +1252,7 @@
       <string>idotbelow.smcp</string>
       <string>igrave.smcp</string>
       <string>ihookabove.smcp</string>
+      <string>ij.smcp</string>
       <string>imacron.smcp</string>
       <string>iogonek.smcp</string>
       <string>itilde.smcp</string>
@@ -1365,9 +1263,16 @@
       <string>lacute.smcp</string>
       <string>lcaron.smcp</string>
       <string>lcommaaccent.smcp</string>
+      <string>ldot.smcp</string>
+      <string>nacute.loclPLK.smcp</string>
       <string>lslash.smcp</string>
       <string>m.smcp</string>
+      <string>n.smcp</string>
+      <string>nacute.smcp</string>
+      <string>ncaron.smcp</string>
+      <string>ncommaaccent.smcp</string>
       <string>eng.smcp</string>
+      <string>ntilde.smcp</string>
       <string>p.smcp</string>
       <string>thorn.smcp</string>
       <string>r.smcp</string>
@@ -1375,16 +1280,6 @@
       <string>rcaron.smcp</string>
       <string>rcommaaccent.smcp</string>
       <string>kelvin.smcp</string>
-    </array>
-    <key>public.kern2.IJ</key>
-    <array>
-      <string>IJ</string>
-      <string>Iacute_J.loclNLD</string>
-    </array>
-    <key>public.kern2.IJ.smcp</key>
-    <array>
-      <string>iacute_j.smcp.loclNLD</string>
-      <string>ij.smcp</string>
     </array>
     <key>public.kern2.J</key>
     <array>
@@ -1395,27 +1290,6 @@
     <array>
       <string>j.smcp</string>
       <string>jcircumflex.smcp</string>
-    </array>
-    <key>public.kern2.Lsmcp</key>
-    <array>
-      <string>ldot.smcp</string>
-    </array>
-    <key>public.kern2.N</key>
-    <array>
-      <string>N</string>
-      <string>Nacute</string>
-      <string>Ncaron</string>
-      <string>Ncommaaccent</string>
-      <string>Ntilde</string>
-    </array>
-    <key>public.kern2.N.smcp</key>
-    <array>
-      <string>nacute.loclPLK.smcp</string>
-      <string>n.smcp</string>
-      <string>nacute.smcp</string>
-      <string>ncaron.smcp</string>
-      <string>ncommaaccent.smcp</string>
-      <string>ntilde.smcp</string>
     </array>
     <key>public.kern2.O</key>
     <array>
@@ -1428,7 +1302,6 @@
       <string>G</string>
       <string>Gacute</string>
       <string>Gbreve</string>
-      <string>Gcaron</string>
       <string>Gcircumflex</string>
       <string>Gcommaaccent</string>
       <string>Gdotaccent</string>
@@ -1455,9 +1328,12 @@
       <string>Ohungarumlaut</string>
       <string>Omacron</string>
       <string>Oslash</string>
-      <string>Oslashacute</string>
       <string>Otilde</string>
       <string>OE</string>
+      <string>Q</string>
+      <string>Cacute.loclPLK</string>
+      <string>Oacute.loclPLK</string>
+      <string>ohorn</string>
     </array>
     <key>public.kern2.O.smcp</key>
     <array>
@@ -1470,11 +1346,11 @@
       <string>g.smcp</string>
       <string>gacute.smcp</string>
       <string>gbreve.smcp</string>
-      <string>gcaron.smcp</string>
       <string>gcircumflex.smcp</string>
       <string>gcommaaccent.smcp</string>
       <string>gdotaccent.smcp</string>
       <string>gstroke.smcp</string>
+      <string>cacute.loclPLK.smcp</string>
       <string>oacute.loclPLK.smcp</string>
       <string>o.smcp</string>
       <string>oacute.smcp</string>
@@ -1501,13 +1377,6 @@
       <string>oslashacute.smcp</string>
       <string>otilde.smcp</string>
       <string>oe.smcp</string>
-    </array>
-    <key>public.kern2.Q</key>
-    <array>
-      <string>Q</string>
-    </array>
-    <key>public.kern2.Q.smcp</key>
-    <array>
       <string>q.smcp</string>
     </array>
     <key>public.kern2.S</key>
@@ -1518,6 +1387,7 @@
       <string>Scedilla</string>
       <string>Scircumflex</string>
       <string>Scommaaccent</string>
+      <string>Sacute.loclPLK</string>
     </array>
     <key>public.kern2.S.smcp</key>
     <array>
@@ -1533,6 +1403,10 @@
     <array>
       <string>Schwa</string>
     </array>
+    <key>public.kern2.Schwa-cy</key>
+    <array>
+      <string>Schwa-cy</string>
+    </array>
     <key>public.kern2.T</key>
     <array>
       <string>T</string>
@@ -1540,7 +1414,7 @@
       <string>Tcaron</string>
       <string>Tcedilla</string>
       <string>Tcommaaccent</string>
-      <string>T_h.liga</string>
+      <string>T_h</string>
     </array>
     <key>public.kern2.T.smcp</key>
     <array>
@@ -1555,10 +1429,8 @@
       <string>U</string>
       <string>Uacute</string>
       <string>Ubreve</string>
-      <string>Ucaron</string>
       <string>Ucircumflex</string>
       <string>Udieresis</string>
-      <string>Udotbelow</string>
       <string>Ugrave</string>
       <string>Uhookabove</string>
       <string>Uhorn</string>
@@ -1596,33 +1468,21 @@
       <string>uring.smcp</string>
       <string>utilde.smcp</string>
     </array>
-    <key>public.kern2.Ustrait-cy</key>
+    <key>public.kern2.W</key>
     <array>
-      <string>Ustrait-cy</string>
-      <string>Ustraitstroke-cy</string>
-    </array>
-    <key>public.kern2.V</key>
-    <array>
-      <string>V</string>
       <string>W</string>
       <string>Wacute</string>
       <string>Wcircumflex</string>
       <string>Wdieresis</string>
       <string>Wgrave</string>
-      <string>v.smcp</string>
+    </array>
+    <key>public.kern2.W.smcp</key>
+    <array>
       <string>w.smcp</string>
       <string>wacute.smcp</string>
       <string>wcircumflex.smcp</string>
       <string>wdieresis.smcp</string>
       <string>wgrave.smcp</string>
-    </array>
-    <key>public.kern2.X</key>
-    <array>
-      <string>X</string>
-    </array>
-    <key>public.kern2.X.smcp</key>
-    <array>
-      <string>x.smcp</string>
     </array>
     <key>public.kern2.Y</key>
     <array>
@@ -1630,10 +1490,8 @@
       <string>Yacute</string>
       <string>Ycircumflex</string>
       <string>Ydieresis</string>
-      <string>Ydotbelow</string>
       <string>Ygrave</string>
       <string>Yhookabove</string>
-      <string>Ytilde</string>
     </array>
     <key>public.kern2.Y.smcp</key>
     <array>
@@ -1656,6 +1514,7 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>Zacute.loclPLK</string>
     </array>
     <key>public.kern2.Z.smcp</key>
     <array>
@@ -1669,6 +1528,33 @@
     <array>
       <string>Zhe-cy</string>
       <string>Zhedescender-cy</string>
+    </array>
+    <key>public.kern2.a</key>
+    <array>
+      <string>a</string>
+      <string>aacute</string>
+      <string>abreve</string>
+      <string>abreveacute</string>
+      <string>abrevedotbelow</string>
+      <string>abrevegrave</string>
+      <string>abrevehookabove</string>
+      <string>abrevetilde</string>
+      <string>acaron</string>
+      <string>acircumflex</string>
+      <string>acircumflexacute</string>
+      <string>acircumflexdotbelow</string>
+      <string>acircumflexgrave</string>
+      <string>acircumflexhookabove</string>
+      <string>acircumflextilde</string>
+      <string>adieresis</string>
+      <string>adotbelow</string>
+      <string>agrave</string>
+      <string>ahookabove</string>
+      <string>amacron</string>
+      <string>aogonek</string>
+      <string>aring</string>
+      <string>atilde</string>
+      <string>ae</string>
     </array>
     <key>public.kern2.colon</key>
     <array>
@@ -1687,6 +1573,7 @@
     </array>
     <key>public.kern2.f</key>
     <array>
+      <string>Germandbls</string>
       <string>f</string>
       <string>longs</string>
       <string>f_f</string>
@@ -1719,19 +1606,10 @@
       <string>g</string>
       <string>gacute</string>
       <string>gbreve</string>
-      <string>gcaron</string>
       <string>gcircumflex</string>
       <string>gcommaaccent</string>
       <string>gdotaccent</string>
       <string>gstroke</string>
-    </array>
-    <key>public.kern2.germandbls.cap</key>
-    <array>
-      <string>Germandbls</string>
-    </array>
-    <key>public.kern2.germandbls.smcp</key>
-    <array>
-      <string>germandbls.smcp</string>
     </array>
     <key>public.kern2.guilsinglleft</key>
     <array>
@@ -1765,14 +1643,7 @@
     </array>
     <key>public.kern2.h</key>
     <array>
-      <string>b</string>
-      <string>h</string>
-      <string>hbar</string>
-      <string>hcaron</string>
-      <string>hcircumflex</string>
-      <string>k</string>
-      <string>kcaron</string>
-      <string>kcommaaccent</string>
+      <string>thorn</string>
       <string>germandbls</string>
     </array>
     <key>public.kern2.hyphen</key>
@@ -1782,20 +1653,20 @@
       <string>endash</string>
       <string>emdash</string>
       <string>hyphentwo</string>
+      <string>hyphentwo.case</string>
+      <string>hyphentwo.smcp</string>
     </array>
     <key>public.kern2.hyphen.cap</key>
     <array>
       <string>hyphen.case</string>
       <string>endash.case</string>
       <string>emdash.case</string>
-      <string>hyphentwo.case</string>
     </array>
     <key>public.kern2.hyphen.smcp</key>
     <array>
       <string>hyphen.smcp</string>
       <string>endash.smcp</string>
       <string>emdash.smcp</string>
-      <string>hyphentwo.smcp</string>
     </array>
     <key>public.kern2.i</key>
     <array>
@@ -1806,13 +1677,12 @@
       <string>icircumflex</string>
       <string>idieresis</string>
       <string>idotaccent</string>
-      <string>idotbelow</string>
       <string>igrave</string>
       <string>ihookabove</string>
-      <string>ij</string>
       <string>imacron</string>
       <string>iogonek</string>
       <string>itilde</string>
+      <string>kgreenlandic</string>
       <string>iacute_j.loclNLD</string>
     </array>
     <key>public.kern2.j</key>
@@ -1823,6 +1693,11 @@
     </array>
     <key>public.kern2.l</key>
     <array>
+      <string>h</string>
+      <string>hbar</string>
+      <string>hcircumflex</string>
+      <string>k</string>
+      <string>kcommaaccent</string>
       <string>l</string>
       <string>lacute</string>
       <string>lcaron</string>
@@ -1832,7 +1707,6 @@
     </array>
     <key>public.kern2.n</key>
     <array>
-      <string>kgreenlandic</string>
       <string>m</string>
       <string>n</string>
       <string>nacute</string>
@@ -1849,30 +1723,6 @@
     </array>
     <key>public.kern2.o</key>
     <array>
-      <string>a</string>
-      <string>aacute</string>
-      <string>abreve</string>
-      <string>abreveacute</string>
-      <string>abrevedotbelow</string>
-      <string>abrevegrave</string>
-      <string>abrevehookabove</string>
-      <string>abrevetilde</string>
-      <string>acaron</string>
-      <string>acircumflex</string>
-      <string>acircumflexacute</string>
-      <string>acircumflexdotbelow</string>
-      <string>acircumflexgrave</string>
-      <string>acircumflexhookabove</string>
-      <string>acircumflextilde</string>
-      <string>adieresis</string>
-      <string>adotbelow</string>
-      <string>agrave</string>
-      <string>ahookabove</string>
-      <string>amacron</string>
-      <string>aogonek</string>
-      <string>aring</string>
-      <string>atilde</string>
-      <string>ae</string>
       <string>c</string>
       <string>cacute</string>
       <string>ccaron</string>
@@ -1888,19 +1738,12 @@
       <string>ebreve</string>
       <string>ecaron</string>
       <string>ecircumflex</string>
-      <string>ecircumflexacute</string>
-      <string>ecircumflexdotbelow</string>
-      <string>ecircumflexgrave</string>
-      <string>ecircumflexhookabove</string>
-      <string>ecircumflextilde</string>
       <string>edieresis</string>
       <string>edotaccent</string>
-      <string>edotbelow</string>
       <string>egrave</string>
       <string>ehookabove</string>
       <string>emacron</string>
       <string>eogonek</string>
-      <string>etilde</string>
       <string>schwa</string>
       <string>o</string>
       <string>oacute</string>
@@ -1915,7 +1758,6 @@
       <string>odotbelow</string>
       <string>ograve</string>
       <string>ohookabove</string>
-      <string>ohorn</string>
       <string>ohornacute</string>
       <string>ohorndotbelow</string>
       <string>ohorngrave</string>
@@ -1924,18 +1766,12 @@
       <string>ohungarumlaut</string>
       <string>omacron</string>
       <string>oslash</string>
-      <string>oslashacute</string>
       <string>otilde</string>
       <string>oe</string>
       <string>q</string>
       <string>cacute.loclPLK</string>
       <string>oacute.loclPLK</string>
       <string>c_t</string>
-    </array>
-    <key>public.kern2.p</key>
-    <array>
-      <string>p</string>
-      <string>thorn</string>
     </array>
     <key>public.kern2.period</key>
     <array>
@@ -1986,6 +1822,7 @@
     </array>
     <key>public.kern2.u</key>
     <array>
+      <string>ij</string>
       <string>u</string>
       <string>uacute</string>
       <string>ubreve</string>
@@ -2015,7 +1852,6 @@
       <string>Gje-cy</string>
       <string>Gheupturn-cy</string>
       <string>Ie-cy</string>
-      <string>Iegrave-cy</string>
       <string>Io-cy</string>
       <string>Ii-cy</string>
       <string>Iishort-cy</string>
@@ -2041,7 +1877,6 @@
       <string>Kadescender-cy</string>
       <string>Endescender-cy</string>
       <string>Shha-cy</string>
-      <string>Entail-cy</string>
     </array>
     <key>public.kern2.uni041B</key>
     <array>
@@ -2066,21 +1901,32 @@
       <string>U-cy</string>
       <string>Ushort-cy</string>
     </array>
-    <key>public.kern2.uni0433</key>
-    <array>
-      <string>ge-cy</string>
-      <string>gje-cy</string>
-      <string>ghestroke-cy</string>
-    </array>
     <key>public.kern2.uni0438</key>
     <array>
+      <string>ve-cy</string>
+      <string>ge-cy</string>
+      <string>gje-cy</string>
+      <string>gheupturn-cy</string>
       <string>ii-cy</string>
       <string>iishort-cy</string>
       <string>iigrave-cy</string>
+      <string>ka-cy</string>
+      <string>kje-cy</string>
+      <string>em-cy</string>
+      <string>en-cy</string>
+      <string>pe-cy</string>
       <string>tse-cy</string>
       <string>sha-cy</string>
       <string>shcha-cy</string>
       <string>dzhe-cy</string>
+      <string>softsign-cy</string>
+      <string>yeru-cy</string>
+      <string>nje-cy</string>
+      <string>iu-cy</string>
+      <string>ghestroke-cy</string>
+      <string>kadescender-cy</string>
+      <string>endescender-cy</string>
+      <string>entail-cy</string>
     </array>
     <key>public.kern2.uni0438.smcp</key>
     <array>
@@ -2090,7 +1936,6 @@
       <string>gje-cy.smcp</string>
       <string>gheupturn-cy.smcp</string>
       <string>ie-cy.smcp</string>
-      <string>iegrave-cy.smcp</string>
       <string>io-cy.smcp</string>
       <string>ii-cy.smcp</string>
       <string>iishort-cy.smcp</string>
@@ -2112,6 +1957,7 @@
       <string>yi-cy.smcp</string>
       <string>iu-cy.smcp</string>
       <string>yat-cy.smcp</string>
+      <string>ghestroke-cy.smcp</string>
       <string>kadescender-cy.smcp</string>
       <string>endescender-cy.smcp</string>
       <string>shha-cy.smcp</string>
@@ -2127,27 +1973,9 @@
       <string>el-cy.smcp</string>
       <string>lje-cy.smcp</string>
     </array>
-    <key>public.kern2.uni043D</key>
-    <array>
-      <string>ka-cy</string>
-      <string>kje-cy</string>
-      <string>en-cy</string>
-      <string>pe-cy</string>
-      <string>te-cy</string>
-      <string>nje-cy</string>
-      <string>iu-cy</string>
-      <string>yat-cy</string>
-      <string>kadescender-cy</string>
-      <string>endescender-cy</string>
-      <string>entail-cy</string>
-    </array>
     <key>public.kern2.uni043E</key>
     <array>
-      <string>a-cy</string>
-      <string>ve-cy</string>
-      <string>de-cy</string>
       <string>ie-cy</string>
-      <string>iegrave-cy</string>
       <string>io-cy</string>
       <string>o-cy</string>
       <string>es-cy</string>
@@ -2173,16 +2001,13 @@
     <array>
       <string>u-cy</string>
       <string>ushort-cy</string>
+      <string>ustrait-cy</string>
+      <string>ustraitstroke-cy</string>
     </array>
     <key>public.kern2.uni0443.smcp</key>
     <array>
       <string>u-cy.smcp</string>
       <string>ushort-cy.smcp</string>
-    </array>
-    <key>public.kern2.uni044C</key>
-    <array>
-      <string>softsign-cy</string>
-      <string>yeru-cy</string>
     </array>
     <key>public.kern2.uni0456</key>
     <array>
@@ -2195,12 +2020,12 @@
       <string>dje-cy</string>
       <string>shha-cy</string>
     </array>
-    <key>public.kern2.uni04AF</key>
+    <key>public.kern2.uni04AE</key>
     <array>
-      <string>ustrait-cy</string>
-      <string>ustraitstroke-cy</string>
+      <string>Ustrait-cy</string>
+      <string>Ustraitstroke-cy</string>
     </array>
-    <key>public.kern2.ustrait-cy.smcp</key>
+    <key>public.kern2.uni04AE.smcp</key>
     <array>
       <string>ustrait-cy.smcp</string>
       <string>ustraitstroke-cy.smcp</string>
@@ -2214,10 +2039,6 @@
       <string>wdieresis</string>
       <string>wgrave</string>
     </array>
-    <key>public.kern2.x</key>
-    <array>
-      <string>x</string>
-    </array>
     <key>public.kern2.y</key>
     <array>
       <string>y</string>
@@ -2227,15 +2048,10 @@
       <string>ydotbelow</string>
       <string>ygrave</string>
       <string>yhookabove</string>
-      <string>ytilde</string>
     </array>
     <key>public.kern2.yusbig-cy</key>
     <array>
       <string>yusbig-cy</string>
-    </array>
-    <key>public.kern2.yusbig-cy.smcp</key>
-    <array>
-      <string>yusbig-cy.smcp</string>
     </array>
     <key>public.kern2.z</key>
     <array>
@@ -2248,7 +2064,6 @@
     <key>public.kern2.zhe-cy</key>
     <array>
       <string>zhe-cy</string>
-      <string>ereversed-cy</string>
       <string>zhedescender-cy</string>
     </array>
     <key>public.kern2.zhe-cy.smcp</key>

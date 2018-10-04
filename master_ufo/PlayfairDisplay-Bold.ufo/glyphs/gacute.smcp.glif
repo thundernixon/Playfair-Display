@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gacute.smcp" format="2">
-  <advance width="744.0"/>
-  <anchor x="340.0" y="0.0" name="bottom"/>
-  <anchor x="547.0" y="828.0" name="top"/>
+  <advance width="728.0"/>
+  <anchor x="416.0" y="0.0" name="bottom"/>
+  <anchor x="398.0" y="828.0" name="top"/>
   <outline>
     <component base="g.smcp"/>
-    <component base="acutecomb.smcp" xOffset="291.0"/>
+    <component base="acutecomb.smcp" xOffset="216.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 18:47:52</string>
-    </dict>
-  </lib>
 </glyph>

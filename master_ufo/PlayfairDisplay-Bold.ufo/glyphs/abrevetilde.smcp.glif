@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevetilde.smcp" format="2">
-  <advance width="664.0"/>
-  <anchor x="186.0" y="0.0" name="bottom"/>
-  <anchor x="550.0" y="0.0" name="ogonek"/>
-  <anchor x="540.0" y="971.0" name="top"/>
+  <advance width="634.0"/>
+  <anchor x="291.0" y="0.0" name="bottom"/>
+  <anchor x="602.0" y="0.0" name="ogonek"/>
+  <anchor x="313.0" y="990.0" name="top"/>
   <outline>
     <component base="a.smcp"/>
-    <component base="brevecomb.smcp" xOffset="125.0"/>
-    <component base="tildecomb.smcp" xOffset="148.0" yOffset="143.0"/>
+    <component base="brevecomb.smcp" xOffset="89.0"/>
+    <component base="tildecomb" xOffset="104.0" yOffset="232.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 17:43:25</string>
-    </dict>
-  </lib>
 </glyph>

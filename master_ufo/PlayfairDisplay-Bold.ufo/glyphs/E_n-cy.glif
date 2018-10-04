@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="En-cy" format="2">
-  <advance width="846.0"/>
+  <advance width="829.0"/>
   <unicode hex="041D"/>
-  <anchor x="354.0" y="0.0" name="bottom"/>
-  <anchor x="486.0" y="519.0" name="center"/>
-  <anchor x="533.0" y="708.0" name="top"/>
+  <anchor x="801.0" y="0.0" name="bottomright"/>
+  <anchor x="415.0" y="519.0" name="center"/>
+  <anchor x="417.0" y="708.0" name="top"/>
+  <anchor x="28.0" y="708.0" name="topleft"/>
   <outline>
     <component base="H"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 00:35:29</string>
-    </dict>
-  </lib>
 </glyph>

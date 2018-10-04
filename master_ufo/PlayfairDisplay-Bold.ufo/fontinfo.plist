@@ -15,13 +15,13 @@
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
-    <real>-14.0</real>
+    <real>-0.0</real>
     <key>openTypeHeadCreated</key>
-    <string>2017/10/31 16:21:11</string>
+    <string>2017/10/30 21:51:08</string>
     <key>openTypeHheaAscender</key>
-    <integer>999</integer>
+    <integer>1342</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-241</integer>
+    <integer>-311</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -43,17 +43,17 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>999</integer>
+    <integer>1342</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-241</integer>
+    <integer>312</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>FTH</string>
     <key>openTypeOS2WinAscent</key>
-    <integer>1072</integer>
+    <integer>1166</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>251</integer>
+    <integer>244</integer>
     <key>postscriptBlueValues</key>
     <array>
       <real>-30.0</real>
@@ -62,8 +62,8 @@
       <real>549.0</real>
       <real>608.0</real>
       <real>638.0</real>
-      <real>708.0</real>
-      <real>738.0</real>
+      <real>698.0</real>
+      <real>728.0</real>
       <real>758.0</real>
       <real>788.0</real>
     </array>
@@ -73,8 +73,8 @@
     <array/>
     <key>postscriptOtherBlues</key>
     <array>
-      <real>-211.0</real>
-      <real>-181.0</real>
+      <real>-201.0</real>
+      <real>-171.0</real>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
@@ -93,7 +93,7 @@
     <key>styleMapFamilyName</key>
     <string>Playfair Display</string>
     <key>styleMapStyleName</key>
-    <string>bold italic</string>
+    <string>bold</string>
     <key>styleName</key>
     <string>Bold</string>
     <key>trademark</key>
@@ -103,7 +103,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>201</integer>
+    <integer>203</integer>
     <key>xHeight</key>
     <real>519.0</real>
   </dict>

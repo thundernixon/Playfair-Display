@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="2">
-  <advance width="591.0"/>
+  <advance width="598.0"/>
   <unicode hex="003E"/>
   <outline>
-    <contour>
-      <point x="55.0" y="155.0" type="line"/>
-      <point x="580.0" y="372.0" type="line"/>
-      <point x="151.0" y="603.0" type="line"/>
-      <point x="135.0" y="574.0" type="line"/>
-      <point x="505.0" y="376.0" type="line"/>
-      <point x="45.0" y="184.0" type="line"/>
-    </contour>
+    <component base="less" xScale="-1.0" xOffset="598.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/08/06 13:35:49</string>
-    </dict>
-  </lib>
 </glyph>

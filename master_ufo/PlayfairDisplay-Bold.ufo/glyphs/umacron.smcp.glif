@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="umacron.smcp" format="2">
-  <advance width="707.0"/>
-  <anchor x="321.0" y="0.0" name="bottom"/>
-  <anchor x="390.0" y="0.0" name="ogonek"/>
-  <anchor x="526.0" y="828.0" name="top"/>
+  <advance width="671.0"/>
+  <anchor x="364.0" y="0.0" name="bottom"/>
+  <anchor x="455.0" y="0.0" name="ogonek"/>
+  <anchor x="348.0" y="828.0" name="top"/>
   <outline>
     <component base="u.smcp"/>
-    <component base="macroncomb.smcp" xOffset="119.0"/>
+    <component base="macroncomb.smcp" xOffset="145.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:38:11</string>
-    </dict>
-  </lib>
 </glyph>

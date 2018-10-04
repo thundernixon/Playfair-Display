@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I-cy" format="2">
-  <advance width="422.0"/>
+  <advance width="401.0"/>
   <unicode hex="0406"/>
-  <anchor x="130.0" y="0.0" name="bottom"/>
-  <anchor x="298.0" y="0.0" name="ogonek"/>
-  <anchor x="334.0" y="708.0" name="top"/>
+  <anchor x="201.0" y="708.0" name="top"/>
+  <anchor x="206.0" y="0.0" name="bottom"/>
+  <anchor x="349.0" y="0.0" name="ogonek"/>
   <outline>
     <component base="I"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 17:31:14</string>
-    </dict>
-  </lib>
 </glyph>

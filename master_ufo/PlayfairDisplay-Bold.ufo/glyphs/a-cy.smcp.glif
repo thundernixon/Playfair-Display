@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a-cy.smcp" format="2">
-  <advance width="664.0"/>
-  <anchor x="186.0" y="0.0" name="bottom"/>
-  <anchor x="550.0" y="0.0" name="ogonek"/>
-  <anchor x="448.0" y="608.0" name="top"/>
+  <advance width="634.0"/>
+  <anchor x="291.0" y="0.0" name="bottom"/>
+  <anchor x="602.0" y="0.0" name="ogonek"/>
+  <anchor x="314.0" y="608.0" name="top"/>
   <outline>
     <component base="a.smcp"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:07:53</string>
-    </dict>
-  </lib>
 </glyph>

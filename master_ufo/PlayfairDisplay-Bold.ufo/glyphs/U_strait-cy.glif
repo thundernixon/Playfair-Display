@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ustrait-cy" format="2">
-  <advance width="776.0"/>
+  <advance width="644.0"/>
   <unicode hex="04AE"/>
-  <anchor x="293.0" y="0.0" name="bottom"/>
-  <anchor x="485.0" y="708.0" name="top"/>
+  <anchor x="322.0" y="0.0" name="bottom"/>
+  <anchor x="348.0" y="708.0" name="top"/>
   <outline>
     <component base="Y"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 18:59:46</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

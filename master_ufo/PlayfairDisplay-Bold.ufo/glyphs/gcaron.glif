@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcaron" format="2">
-  <advance width="487.0"/>
+  <advance width="570.0"/>
   <unicode hex="01E7"/>
-  <anchor x="121.0" y="-181.0" name="bottom"/>
-  <anchor x="367.0" y="758.0" name="top"/>
+  <anchor x="280.0" y="-181.0" name="bottom"/>
+  <anchor x="254.0" y="758.0" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="caroncomb" xOffset="31.0"/>
+    <component base="caroncomb" xOffset="44.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 17:21:39</string>
-    </dict>
-  </lib>
 </glyph>

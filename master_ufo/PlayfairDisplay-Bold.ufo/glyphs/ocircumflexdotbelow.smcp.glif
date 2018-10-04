@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexdotbelow.smcp" format="2">
-  <advance width="811.0"/>
-  <anchor x="299.0" y="-191.0" name="bottom"/>
-  <anchor x="408.0" y="306.0" name="center"/>
-  <anchor x="566.0" y="828.0" name="top"/>
+  <advance width="785.0"/>
+  <anchor x="393.0" y="-191.0" name="bottom"/>
+  <anchor x="391.0" y="828.0" name="top"/>
   <outline>
     <component base="o.smcp"/>
-    <component base="circumflexcomb.smcp" xOffset="154.0"/>
-    <component base="dotbelowcomb" xOffset="312.0"/>
+    <component base="dotbelowcomb" xOffset="294.0"/>
+    <component base="circumflexcomb.smcp" xOffset="181.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/02 17:23:37</string>
-    </dict>
-  </lib>
 </glyph>

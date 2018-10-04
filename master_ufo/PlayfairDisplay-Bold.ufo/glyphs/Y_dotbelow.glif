@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ydotbelow" format="2">
-  <advance width="776.0"/>
+  <advance width="644.0"/>
   <unicode hex="1EF4"/>
-  <anchor x="256.0" y="-191.0" name="bottom"/>
-  <anchor x="485.0" y="708.0" name="top"/>
+  <anchor x="321.0" y="-191.0" name="bottom"/>
+  <anchor x="348.0" y="708.0" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="dotbelowcomb" xOffset="269.0"/>
+    <component base="dotbelowcomb" xOffset="222.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/02 17:23:34</string>
-    </dict>
-  </lib>
 </glyph>

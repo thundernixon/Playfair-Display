@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="2">
-  <advance width="606.0"/>
+  <advance width="567.0"/>
   <unicode hex="00B1"/>
   <outline>
-    <component base="minus" xOffset="-111.0" yOffset="-340.0"/>
-    <component base="plus" xOffset="23.0"/>
+    <component base="minus" xOffset="-31.0" yOffset="-340.0"/>
+    <component base="plus" xOffset="2.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/08/06 13:35:49</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>plus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>plus</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

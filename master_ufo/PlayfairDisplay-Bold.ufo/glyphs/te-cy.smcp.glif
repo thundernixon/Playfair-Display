@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="te-cy.smcp" format="2">
-  <advance width="710.0"/>
-  <anchor x="315.0" y="0.0" name="bottom"/>
-  <anchor x="381.0" y="257.0" name="center"/>
-  <anchor x="474.0" y="608.0" name="top"/>
+  <advance width="661.0"/>
+  <anchor x="331.0" y="0.0" name="bottom"/>
+  <anchor x="331.0" y="257.0" name="center"/>
+  <anchor x="331.0" y="608.0" name="top"/>
   <outline>
     <component base="t.smcp"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 18:54:16</string>
-    </dict>
-  </lib>
 </glyph>

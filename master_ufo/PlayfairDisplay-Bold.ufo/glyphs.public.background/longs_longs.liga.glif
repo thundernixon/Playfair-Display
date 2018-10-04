@@ -2,6 +2,6 @@
 <glyph name="longs_longs.liga" format="2">
   <outline>
     <component base="longs" xOffset="5.0"/>
-    <component base="longs" xOffset="360.0"/>
+    <component base="longs" xOffset="370.0"/>
   </outline>
 </glyph>

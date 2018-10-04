@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gje-cy" format="2">
-  <advance width="432.0"/>
+  <advance width="468.0"/>
   <unicode hex="0453"/>
-  <anchor x="349.0" y="758.0" name="top"/>
+  <anchor x="234.0" y="753.0" name="top"/>
   <outline>
     <component base="ge-cy"/>
-    <component base="acutecomb" xOffset="139.0"/>
+    <component base="acutecomb" xOffset="142.0" yOffset="-5.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:21:30</string>
-    </dict>
-  </lib>
 </glyph>

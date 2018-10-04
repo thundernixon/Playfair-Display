@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute_j.smcp.loclNLD" format="2">
-  <advance width="877.0"/>
-  <anchor x="717.0" y="828.0" name="top"/>
+  <advance width="775.0"/>
+  <anchor x="197.0" y="0.0" name="bottom"/>
+  <anchor x="344.0" y="0.0" name="ogonek"/>
+  <anchor x="197.0" y="828.0" name="top_1"/>
+  <anchor x="571.0" y="608.0" name="top_2"/>
   <outline>
-    <component base="ij.smcp"/>
-    <component base="acutecomb.case" xOffset="163.0" yOffset="-100.0"/>
-    <component base="acutecomb.case" xOffset="499.0" yOffset="-100.0"/>
+    <component base="iacute.smcp"/>
+    <component base="j.smcp" xOffset="393.0"/>
+    <component base="acutecomb.smcp" xOffset="389.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>ij.smcp</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>j.smcp</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 16:59:54</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

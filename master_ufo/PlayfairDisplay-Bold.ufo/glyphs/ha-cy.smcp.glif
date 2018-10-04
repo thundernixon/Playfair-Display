@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ha-cy.smcp" format="2">
-  <advance width="756.0"/>
+  <advance width="664.0"/>
+  <anchor x="356.0" y="0.0" name="bottom"/>
+  <anchor x="359.0" y="608.0" name="top"/>
   <outline>
     <component base="x.smcp"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:07:53</string>
-    </dict>
-  </lib>
 </glyph>

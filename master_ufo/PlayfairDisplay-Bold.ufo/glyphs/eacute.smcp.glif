@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eacute.smcp" format="2">
-  <advance width="644.0"/>
-  <anchor x="293.0" y="0.0" name="bottom"/>
-  <anchor x="492.0" y="0.0" name="ogonek"/>
-  <anchor x="463.0" y="828.0" name="top"/>
+  <advance width="619.0"/>
+  <anchor x="336.0" y="0.0" name="bottom"/>
+  <anchor x="557.0" y="0.0" name="ogonek"/>
+  <anchor x="306.0" y="828.0" name="top"/>
   <outline>
     <component base="e.smcp"/>
-    <component base="acutecomb.smcp" xOffset="207.0"/>
+    <component base="acutecomb.smcp" xOffset="124.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 18:45:50</string>
-    </dict>
-  </lib>
 </glyph>

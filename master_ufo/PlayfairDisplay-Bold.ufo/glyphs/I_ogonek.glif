@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iogonek" format="2">
-  <advance width="422.0"/>
+  <advance width="401.0"/>
   <unicode hex="012E"/>
-  <anchor x="130.0" y="0.0" name="bottom"/>
-  <anchor x="298.0" y="0.0" name="ogonek"/>
-  <anchor x="334.0" y="708.0" name="top"/>
+  <anchor x="206.0" y="0.0" name="bottom"/>
+  <anchor x="349.0" y="0.0" name="ogonek"/>
+  <anchor x="206.0" y="708.0" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="ogonekcomb.case" xOffset="146.0"/>
+    <component base="ogonekcomb.case" xOffset="159.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:38:11</string>
-    </dict>
-  </lib>
 </glyph>

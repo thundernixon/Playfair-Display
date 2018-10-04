@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="2">
-  <advance width="742.0"/>
+  <advance width="721.0"/>
   <unicode hex="0154"/>
-  <anchor x="338.0" y="0.0" name="bottom"/>
-  <anchor x="484.0" y="928.0" name="top"/>
+  <anchor x="383.0" y="0.0" name="bottom"/>
+  <anchor x="342.0" y="928.0" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="acutecomb.case" xOffset="266.0"/>
+    <component base="acutecomb.case" xOffset="261.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:38:11</string>
-    </dict>
-  </lib>
 </glyph>

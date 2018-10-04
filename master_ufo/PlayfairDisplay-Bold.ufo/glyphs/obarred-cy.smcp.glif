@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="obarred-cy.smcp" format="2">
-  <advance width="811.0"/>
-  <anchor x="336.0" y="0.0" name="bottom"/>
-  <anchor x="408.0" y="306.0" name="center"/>
-  <anchor x="511.0" y="608.0" name="top"/>
+  <advance width="785.0"/>
+  <anchor x="394.0" y="0.0" name="bottom"/>
+  <anchor x="391.0" y="608.0" name="top"/>
   <outline>
     <contour>
-      <point x="137.0" y="296.0" type="line"/>
-      <point x="652.0" y="296.0" type="line"/>
-      <point x="656.0" y="316.0" type="line"/>
-      <point x="141.0" y="316.0" type="line"/>
+      <point x="139.0" y="296.0" type="line"/>
+      <point x="654.0" y="296.0" type="line"/>
+      <point x="654.0" y="316.0" type="line"/>
+      <point x="139.0" y="316.0" type="line"/>
     </contour>
-    <component base="o-cy.smcp"/>
+    <component base="o.smcp"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/02 19:29:45</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

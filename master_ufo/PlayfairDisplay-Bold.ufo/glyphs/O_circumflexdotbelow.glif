@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflexdotbelow" format="2">
-  <advance width="809.0"/>
+  <advance width="827.0"/>
   <unicode hex="1ED8"/>
-  <anchor x="298.0" y="-191.0" name="bottom"/>
-  <anchor x="561.0" y="928.0" name="top"/>
+  <anchor x="414.0" y="-191.0" name="bottom"/>
+  <anchor x="412.0" y="928.0" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb.case" xOffset="130.0"/>
-    <component base="dotbelowcomb" xOffset="311.0"/>
+    <component base="circumflexcomb.case" xOffset="201.0"/>
+    <component base="dotbelowcomb" xOffset="315.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/02 17:23:34</string>
-    </dict>
-  </lib>
 </glyph>

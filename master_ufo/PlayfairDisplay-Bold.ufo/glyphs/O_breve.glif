@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="2">
-  <advance width="809.0"/>
+  <advance width="827.0"/>
   <unicode hex="014E"/>
-  <anchor x="335.0" y="0.0" name="bottom"/>
-  <anchor x="550.0" y="882.0" name="top"/>
+  <anchor x="415.0" y="0.0" name="bottom"/>
+  <anchor x="412.0" y="858.0" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="brevecomb.case" xOffset="158.0"/>
+    <component base="brevecomb.case" xOffset="188.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 14:03:21</string>
-    </dict>
-  </lib>
 </glyph>

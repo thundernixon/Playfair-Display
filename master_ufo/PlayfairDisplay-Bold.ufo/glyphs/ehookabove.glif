@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ehookabove" format="2">
-  <advance width="496.0"/>
+  <advance width="503.0"/>
   <unicode hex="1EBB"/>
-  <anchor x="192.0" y="0.0" name="bottom"/>
-  <anchor x="264.0" y="0.0" name="ogonek"/>
-  <anchor x="415.0" y="838.0" name="top"/>
+  <anchor x="262.0" y="0.0" name="bottom"/>
+  <anchor x="341.0" y="0.0" name="ogonek"/>
+  <anchor x="307.0" y="838.0" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="hookabovecomb" xOffset="88.0"/>
+    <component base="hookabovecomb" xOffset="125.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 17:21:19</string>
-    </dict>
-  </lib>
 </glyph>

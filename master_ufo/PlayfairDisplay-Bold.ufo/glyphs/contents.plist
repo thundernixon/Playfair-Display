@@ -392,8 +392,8 @@
     <string>S_oftsign-cy.glif</string>
     <key>T</key>
     <string>T_.glif</string>
-    <key>T_h.liga</key>
-    <string>T__h.liga.glif</string>
+    <key>T_h</key>
+    <string>T__h.glif</string>
     <key>Tbar</key>
     <string>T_bar.glif</string>
     <key>Tcaron</key>
@@ -1764,12 +1764,12 @@
     <string>rightA_rrow.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
+    <key>ring.smcp</key>
+    <string>ring.smcp.glif</string>
     <key>ringcomb</key>
     <string>ringcomb.glif</string>
     <key>ringcomb.case</key>
     <string>ringcomb.case.glif</string>
-    <key>ringcomb.smcp</key>
-    <string>ringcomb.smcp.glif</string>
     <key>rupeeIndian</key>
     <string>rupeeI_ndian.glif</string>
     <key>rupeeIndian.smcp</key>
@@ -1860,6 +1860,12 @@
     <string>six.sups.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
+    <key>slashL</key>
+    <string>slashL_.glif</string>
+    <key>slashL.smcp</key>
+    <string>slashL_.smcp.glif</string>
+    <key>slashl</key>
+    <string>slashl.glif</string>
     <key>slashlongoverlaycomb</key>
     <string>slashlongoverlaycomb.glif</string>
     <key>slashlongoverlaycomb.smcp</key>
@@ -1888,8 +1894,6 @@
     <string>strokelongoverlaycomb.smcp.glif</string>
     <key>strokeshortoverlaycomb</key>
     <string>strokeshortoverlaycomb.glif</string>
-    <key>strokeshortoverlaycomb.case</key>
-    <string>strokeshortoverlaycomb.case.glif</string>
     <key>strokeshortoverlaycomb.smcp</key>
     <string>strokeshortoverlaycomb.smcp.glif</string>
     <key>summation</key>
@@ -1940,12 +1944,12 @@
     <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
+    <key>tilde.smcp</key>
+    <string>tilde.smcp.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
     <key>tildecomb.case</key>
     <string>tildecomb.case.glif</string>
-    <key>tildecomb.smcp</key>
-    <string>tildecomb.smcp.glif</string>
     <key>trademark</key>
     <string>trademark.glif</string>
     <key>tse-cy</key>

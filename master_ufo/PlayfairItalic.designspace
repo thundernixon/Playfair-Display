@@ -24,7 +24,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Playfair Display" filename="../dist/Playfair-2-Italic-VF-2018-10-03-13_59/PlayfairDisplay-Italic.ufo" name="Playfair Display Italic" stylemapfamilyname="Playfair Display" stylemapstylename="italic" stylename="Italic">
+        <instance familyname="Playfair Display" filename="../dist/Playfair-2-Italic-VF-2018-10-04-10_34/PlayfairDisplay-Italic.ufo" name="Playfair Display Italic" stylemapfamilyname="Playfair Display" stylemapstylename="italic" stylename="Italic">
             <location>
                 <dimension name="Weight" xvalue="90" />
             </location>
@@ -53,7 +53,7 @@
                 </dict>
             </lib>
         </instance>
-        <instance familyname="Playfair Display" filename="../dist/Playfair-2-Italic-VF-2018-10-03-13_59/PlayfairDisplay-BoldItalic.ufo" name="Playfair Display Bold Italic" stylemapfamilyname="Playfair Display Bold" stylemapstylename="bold italic" stylename="Bold Italic">
+        <instance familyname="Playfair Display" filename="../dist/Playfair-2-Italic-VF-2018-10-04-10_34/PlayfairDisplay-BoldItalic.ufo" name="Playfair Display Bold Italic" stylemapfamilyname="Playfair Display Bold" stylemapstylename="bold italic" stylename="Bold Italic">
             <location>
                 <dimension name="Weight" xvalue="144" />
             </location>
@@ -82,7 +82,7 @@
                 </dict>
             </lib>
         </instance>
-        <instance familyname="Playfair Display" filename="../dist/Playfair-2-Italic-VF-2018-10-03-13_59/PlayfairDisplay-BlackItalic.ufo" name="Playfair Display Black Italic" stylemapfamilyname="Playfair Display Black" stylemapstylename="italic" stylename="Black Italic">
+        <instance familyname="Playfair Display" filename="../dist/Playfair-2-Italic-VF-2018-10-04-10_34/PlayfairDisplay-BlackItalic.ufo" name="Playfair Display Black Italic" stylemapfamilyname="Playfair Display Black" stylemapstylename="italic" stylename="Black Italic">
             <location>
                 <dimension name="Weight" xvalue="180" />
             </location>
@@ -111,7 +111,7 @@
                 </dict>
             </lib>
         </instance>
-        <instance familyname="Playfair Display SC" filename="../dist/Playfair-2-Italic-VF-2018-10-03-13_59/PlayfairDisplaySC-Italic.ufo" name="Playfair Display SC Italic" stylemapfamilyname="Playfair Display SC" stylemapstylename="italic" stylename="Italic">
+        <instance familyname="Playfair Display SC" filename="../dist/Playfair-2-Italic-VF-2018-10-04-10_34/PlayfairDisplaySC-Italic.ufo" name="Playfair Display SC Italic" stylemapfamilyname="Playfair Display SC" stylemapstylename="italic" stylename="Italic">
             <location>
                 <dimension name="Weight" xvalue="90" />
             </location>
@@ -491,7 +491,7 @@
                 </dict>
             </lib>
         </instance>
-        <instance familyname="Playfair Display SC" filename="../dist/Playfair-2-Italic-VF-2018-10-03-13_59/PlayfairDisplaySC-BoldItalic.ufo" name="Playfair Display SC Bold Italic" stylemapfamilyname="Playfair Display SC Bold" stylemapstylename="bold italic" stylename="Bold Italic">
+        <instance familyname="Playfair Display SC" filename="../dist/Playfair-2-Italic-VF-2018-10-04-10_34/PlayfairDisplaySC-BoldItalic.ufo" name="Playfair Display SC Bold Italic" stylemapfamilyname="Playfair Display SC Bold" stylemapstylename="bold italic" stylename="Bold Italic">
             <location>
                 <dimension name="Weight" xvalue="144" />
             </location>
@@ -871,7 +871,7 @@
                 </dict>
             </lib>
         </instance>
-        <instance familyname="Playfair Display SC" filename="../dist/Playfair-2-Italic-VF-2018-10-03-13_59/PlayfairDisplaySC-BlackItalic.ufo" name="Playfair Display SC Black Italic" stylemapfamilyname="Playfair Display SC Black" stylemapstylename="italic" stylename="Black Italic">
+        <instance familyname="Playfair Display SC" filename="../dist/Playfair-2-Italic-VF-2018-10-04-10_34/PlayfairDisplaySC-BlackItalic.ufo" name="Playfair Display SC Black Italic" stylemapfamilyname="Playfair Display SC Black" stylemapstylename="italic" stylename="Black Italic">
             <location>
                 <dimension name="Weight" xvalue="180" />
             </location>

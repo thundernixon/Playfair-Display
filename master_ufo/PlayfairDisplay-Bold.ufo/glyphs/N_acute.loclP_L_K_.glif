@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute.loclPLK" format="2">
-  <advance width="861.0"/>
-  <anchor x="346.0" y="0.0" name="bottom"/>
-  <anchor x="587.0" y="928.0" name="top"/>
+  <advance width="732.0"/>
+  <anchor x="375.0" y="0.0" name="bottom"/>
+  <anchor x="382.0" y="928.0" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb.loclPLK.case" xOffset="359.0"/>
+    <component base="acutecomb.loclPLK.case" xOffset="329.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/02 20:19:31</string>
-    </dict>
-  </lib>
 </glyph>

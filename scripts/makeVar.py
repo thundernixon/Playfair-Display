@@ -7,11 +7,13 @@ from datetime import datetime
 ######################################
 ##### DEFINE THE VARIABLES BELOW #####
  
-# familyName = 'Playfair' # use for roman
-familyName = 'PlayfairItalic' # use for italic
+familyName = 'Playfair' # use for roman
+# familyName = 'PlayfairItalic' # use for italic
 
 # DS_PATH = 'recursive-mono-roman.designspace' # use for designspace
-GLYPHS_PATH = 'sources/Playfair-2-Italic.glyphs' # use for glyphs file
+# GLYPHS_PATH = 'sources/Playfair-2-Italic.glyphs' # use for glyphs file
+# GLYPHS_PATH = 'sources/Playfair-2-Roman.glyphs' # use for glyphs file
+GLYPHS_PATH = 'sources/Playfair-Display-Roman.glyphs' # use for glyphs file
 
 ##### DEFINE THE VARIABLES ABOVE #####
 ######################################
@@ -57,7 +59,9 @@ print(project.run_from_glyphs(glyphs_path=GLYPHS_PATH, **args))
 
 # move font to the timestamped folder in dist
 defaultFontPath = 'variable_ttf/' + familyName + '-VF.ttf'
+# defaultFontPath = f"variable_ttf/{familyName}-VF.ttf"
 newFontPath = outputFolder + familyName + '-VF.ttf'
+# newFontPath = f'{outputFolder}{familyName}-VF.ttf'
 shutil.move(defaultFontPath, newFontPath)
 
 # remove now-empty default folder
@@ -69,5 +73,6 @@ os.system('open %s' % newFontPath)
 
 # run fontbakery check on new font
 fontbakeryCommand = 'fontbakery check-googlefonts ' + newFontPath + ' --ghmarkdown ' + outputFolder + 'fontbakery-report.md'
+# fontbakeryCommand = f'fontbakery check-googlefonts {newFontPath} --ghmarkdown {outputFolder} fontbakery-report.md'
 # print("fontbakeryCommand is " + fontbakeryCommand)
 print(os.system(fontbakeryCommand))

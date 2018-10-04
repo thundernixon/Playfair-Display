@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="braceright" format="2">
-  <advance width="397.0"/>
+  <advance width="353.0"/>
   <unicode hex="007D"/>
   <outline>
-    <contour>
-      <point x="148.0" y="782.0" type="curve"/>
-      <point x="143.0" y="763.0" type="line"/>
-      <point x="181.0" y="762.0"/>
-      <point x="200.0" y="754.0"/>
-      <point x="200.0" y="713.0" type="curve" smooth="yes"/>
-      <point x="201.0" y="682.0"/>
-      <point x="191.0" y="632.0"/>
-      <point x="171.0" y="551.0" type="curve" smooth="yes"/>
-      <point x="128.0" y="378.0"/>
-      <point x="164.0" y="333.0"/>
-      <point x="340.0" y="299.0" type="curve"/>
-      <point x="174.0" y="275.0"/>
-      <point x="91.0" y="228.0"/>
-      <point x="45.0" y="47.0" type="curve" smooth="yes"/>
-      <point x="-5.0" y="-150.0"/>
-      <point x="-22.0" y="-168.0"/>
-      <point x="-87.0" y="-169.0" type="curve"/>
-      <point x="-92.0" y="-188.0" type="line"/>
-      <point x="87.0" y="-188.0"/>
-      <point x="178.0" y="-147.0"/>
-      <point x="225.0" y="47.0" type="curve" smooth="yes"/>
-      <point x="270.0" y="234.0"/>
-      <point x="299.0" y="285.0"/>
-      <point x="362.0" y="290.0" type="curve" smooth="yes"/>
-      <point x="367.0" y="290.0" type="line"/>
-      <point x="370.0" y="308.0" type="line"/>
-      <point x="365.0" y="308.0" type="line" smooth="yes"/>
-      <point x="334.0" y="310.0"/>
-      <point x="319.0" y="326.0"/>
-      <point x="318.0" y="367.0" type="curve" smooth="yes"/>
-      <point x="318.0" y="404.0"/>
-      <point x="329.0" y="462.0"/>
-      <point x="351.0" y="551.0" type="curve" smooth="yes"/>
-      <point x="392.0" y="716.0"/>
-      <point x="383.0" y="785.0"/>
-    </contour>
+    <component base="braceleft" xScale="-1.0" xOffset="353.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/10/16 16:07:10</string>
-    </dict>
-  </lib>
 </glyph>

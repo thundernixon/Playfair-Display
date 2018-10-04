@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydotbelow.smcp" format="2">
-  <advance width="714.0"/>
-  <anchor x="215.0" y="-191.0" name="bottom"/>
-  <anchor x="448.0" y="608.0" name="top"/>
-  <anchor x="111.0" y="608.0" name="topleft"/>
+  <advance width="617.0"/>
+  <anchor x="325.0" y="-191.0" name="bottom"/>
+  <anchor x="318.0" y="608.0" name="top"/>
   <outline>
     <component base="y.smcp"/>
-    <component base="dotbelowcomb" xOffset="228.0"/>
+    <component base="dotbelowcomb" xOffset="226.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/02 17:23:37</string>
-    </dict>
-  </lib>
 </glyph>

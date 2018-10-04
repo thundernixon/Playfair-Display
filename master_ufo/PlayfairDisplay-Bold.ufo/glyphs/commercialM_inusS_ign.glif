@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commercialMinusSign" format="2">
-  <advance width="512.0"/>
+  <advance width="495.0"/>
   <unicode hex="2052"/>
   <outline>
-    <component base="period" xOffset="174.0"/>
-    <component base="period" xOffset="172.0" yOffset="562.0"/>
-    <component base="slash" xOffset="26.0"/>
+    <component base="period" xOffset="213.0"/>
+    <component base="period" yOffset="562.0"/>
+    <component base="slash" xOffset="65.0"/>
   </outline>
   <lib>
     <dict>
@@ -13,8 +13,6 @@
       <string>period</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>period</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 00:18:51</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ugrave.smcp" format="2">
-  <advance width="707.0"/>
-  <anchor x="321.0" y="0.0" name="bottom"/>
-  <anchor x="390.0" y="0.0" name="ogonek"/>
-  <anchor x="526.0" y="828.0" name="top"/>
+  <advance width="671.0"/>
+  <anchor x="364.0" y="0.0" name="bottom"/>
+  <anchor x="455.0" y="0.0" name="ogonek"/>
+  <anchor x="348.0" y="828.0" name="top"/>
   <outline>
     <component base="u.smcp"/>
-    <component base="gravecomb.smcp" xOffset="137.0"/>
+    <component base="gravecomb.smcp" xOffset="162.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 18:52:14</string>
-    </dict>
-  </lib>
 </glyph>

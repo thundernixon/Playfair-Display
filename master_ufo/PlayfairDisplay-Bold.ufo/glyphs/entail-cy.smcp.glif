@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="entail-cy.smcp" format="2">
-  <advance width="844.0"/>
-  <anchor x="362.0" y="0.0" name="bottom"/>
-  <anchor x="474.0" y="444.0" name="center"/>
-  <anchor x="514.0" y="608.0" name="top"/>
+  <advance width="811.0"/>
+  <anchor x="409.0" y="0.0" name="bottom"/>
+  <anchor x="409.0" y="453.0" name="center"/>
+  <anchor x="409.0" y="608.0" name="top"/>
   <outline>
     <contour>
-      <point x="523.0" y="-181.0" type="curve"/>
-      <point x="535.0" y="-198.0" type="line"/>
-      <point x="676.0" y="-130.0"/>
-      <point x="755.0" y="-34.0"/>
-      <point x="776.0" y="20.0" type="curve"/>
-      <point x="745.0" y="20.0" type="line" smooth="yes"/>
-      <point x="678.0" y="20.0"/>
-      <point x="667.0" y="33.0"/>
-      <point x="685.0" y="106.0" type="curve"/>
-      <point x="513.0" y="3.0" type="line"/>
-      <point x="639.0" y="3.0"/>
-      <point x="654.0" y="-63.0"/>
+      <point x="646.0" y="-183.0" type="curve"/>
+      <point x="668.0" y="-194.0" type="line"/>
+      <point x="695.0" y="-143.0"/>
+      <point x="750.0" y="-57.0"/>
+      <point x="796.0" y="0.0" type="curve"/>
+      <point x="796.0" y="20.0" type="line"/>
+      <point x="782.0" y="20.0" type="line" smooth="yes"/>
+      <point x="722.0" y="20.0"/>
+      <point x="711.0" y="33.0"/>
+      <point x="711.0" y="106.0" type="curve"/>
+      <point x="551.0" y="3.0" type="line"/>
+      <point x="660.0" y="3.0"/>
+      <point x="723.0" y="-25.0"/>
     </contour>
     <component base="en-cy.smcp"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 15:48:19</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,12 +3,6 @@
   <advance width="452.0"/>
   <unicode hex="00AF"/>
   <outline>
-    <component base="macroncomb" xOffset="30.0"/>
+    <component base="macroncomb" xOffset="45.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/24 09:31:56</string>
-    </dict>
-  </lib>
 </glyph>

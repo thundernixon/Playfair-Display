@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute.smcp" format="2">
-  <advance width="620.0"/>
-  <anchor x="298.0" y="0.0" name="bottom"/>
-  <anchor x="355.0" y="828.0" name="top"/>
-  <anchor x="425.0" y="608.0" name="topright"/>
+  <advance width="599.0"/>
+  <anchor x="343.0" y="0.0" name="bottom"/>
+  <anchor x="207.0" y="354.0" name="center"/>
+  <anchor x="207.0" y="828.0" name="top"/>
+  <anchor x="424.0" y="608.0" name="topright"/>
   <outline>
     <component base="l.smcp"/>
-    <component base="acutecomb.smcp" xOffset="99.0"/>
+    <component base="acutecomb.smcp" xOffset="25.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:43:14</string>
-    </dict>
-  </lib>
 </glyph>

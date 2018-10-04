@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ushort-cy" format="2">
-  <advance width="679.0"/>
+  <advance width="668.0"/>
   <unicode hex="040E"/>
-  <anchor x="455.0" y="708.0" name="top"/>
+  <anchor x="344.0" y="928.0" name="top"/>
   <outline>
     <component base="U-cy"/>
-    <component base="breve-cy.case" xOffset="80.0"/>
+    <component base="breve-cy.case" xOffset="68.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 17:26:52</string>
-    </dict>
-  </lib>
 </glyph>

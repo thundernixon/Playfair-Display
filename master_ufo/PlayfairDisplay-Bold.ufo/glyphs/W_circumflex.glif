@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wcircumflex" format="2">
-  <advance width="1035.0"/>
+  <advance width="1010.0"/>
   <unicode hex="0174"/>
-  <anchor x="453.0" y="0.0" name="bottom"/>
-  <anchor x="713.0" y="925.0" name="top"/>
+  <anchor x="505.0" y="0.0" name="bottom"/>
+  <anchor x="525.0" y="928.0" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="circumflexcomb.case" xOffset="282.0" yOffset="-3.0"/>
+    <component base="circumflexcomb.case" xOffset="314.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:38:11</string>
-    </dict>
-  </lib>
 </glyph>

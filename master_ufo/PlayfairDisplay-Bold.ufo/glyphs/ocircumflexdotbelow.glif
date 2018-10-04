@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexdotbelow" format="2">
-  <advance width="557.0"/>
+  <advance width="576.0"/>
   <unicode hex="1ED9"/>
-  <anchor x="151.0" y="-191.0" name="bottom"/>
-  <anchor x="275.0" y="260.0" name="center"/>
-  <anchor x="414.0" y="758.0" name="top"/>
-  <anchor x="602.0" y="519.0" name="topright"/>
+  <anchor x="287.0" y="-191.0" name="bottom"/>
+  <anchor x="288.0" y="260.0" name="center"/>
+  <anchor x="279.0" y="758.0" name="top"/>
+  <anchor x="556.0" y="519.0" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb" xOffset="56.0"/>
-    <component base="dotbelowcomb" xOffset="164.0"/>
+    <component base="circumflexcomb" xOffset="87.0"/>
+    <component base="dotbelowcomb" xOffset="188.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/02 17:23:34</string>
-    </dict>
-  </lib>
 </glyph>

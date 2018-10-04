@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="je-cy.smcp" format="2">
-  <advance width="721.0"/>
-  <anchor x="487.0" y="608.0" name="top"/>
+  <advance width="382.0"/>
+  <anchor x="178.0" y="608.0" name="top"/>
   <outline>
     <component base="j.smcp"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:07:53</string>
-    </dict>
-  </lib>
 </glyph>

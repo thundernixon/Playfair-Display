@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohookabove" format="2">
-  <advance width="809.0"/>
+  <advance width="827.0"/>
   <unicode hex="1ECE"/>
-  <anchor x="335.0" y="0.0" name="bottom"/>
-  <anchor x="574.0" y="1027.0" name="top"/>
+  <anchor x="415.0" y="0.0" name="bottom"/>
+  <anchor x="410.0" y="977.0" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="hookabovecomb" xOffset="247.0" yOffset="189.0"/>
+    <component base="hookabovecomb.case" xOffset="228.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 14:03:21</string>
-    </dict>
-  </lib>
 </glyph>

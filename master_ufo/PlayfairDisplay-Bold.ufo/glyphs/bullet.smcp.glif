@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bullet.smcp" format="2">
-  <advance width="419.0"/>
+  <advance width="491.0"/>
   <outline>
-    <component base="bullet" xOffset="14.0" yOffset="58.0"/>
+    <component base="bullet" xOffset="-12.0" yOffset="37.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:07:53</string>
-    </dict>
-  </lib>
 </glyph>

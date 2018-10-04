@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncommaaccent" format="2">
-  <advance width="861.0"/>
+  <advance width="732.0"/>
   <unicode hex="0145"/>
-  <anchor x="346.0" y="0.0" name="bottom"/>
-  <anchor x="532.0" y="708.0" name="top"/>
+  <anchor x="375.0" y="0.0" name="bottom"/>
+  <anchor x="382.0" y="708.0" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="commaaccentcomb.case" xOffset="301.0"/>
+    <component base="commaaccentcomb.case" xOffset="269.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:38:11</string>
-    </dict>
-  </lib>
 </glyph>

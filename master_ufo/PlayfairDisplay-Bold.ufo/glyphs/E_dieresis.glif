@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edieresis" format="2">
-  <advance width="637.0"/>
+  <advance width="650.0"/>
   <unicode hex="00CB"/>
-  <anchor x="279.0" y="0.0" name="bottom"/>
-  <anchor x="517.0" y="0.0" name="ogonek"/>
-  <anchor x="483.0" y="928.0" name="top"/>
+  <anchor x="325.0" y="0.0" name="bottom"/>
+  <anchor x="598.0" y="0.0" name="ogonek"/>
+  <anchor x="320.0" y="928.0" name="top"/>
   <outline>
     <component base="E"/>
-    <component base="dieresiscomb.case" xOffset="62.0"/>
+    <component base="dieresiscomb.case" xOffset="131.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 00:23:41</string>
-    </dict>
-  </lib>
 </glyph>

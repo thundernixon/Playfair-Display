@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ha-cy" format="2">
-  <advance width="769.0"/>
+  <advance width="729.0"/>
   <unicode hex="0425"/>
-  <anchor x="320.0" y="0.0" name="bottom"/>
-  <anchor x="497.0" y="708.0" name="top"/>
+  <anchor x="365.0" y="0.0" name="bottom"/>
+  <anchor x="365.0" y="708.0" name="top"/>
   <outline>
     <component base="X"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/09/30 19:51:17</string>
-    </dict>
-  </lib>
 </glyph>

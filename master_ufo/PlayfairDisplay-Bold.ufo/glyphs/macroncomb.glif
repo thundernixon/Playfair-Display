@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb" format="2">
   <unicode hex="0304"/>
-  <guideline x="250.0" y="447.0" angle="76.0"/>
-  <anchor x="268.0" y="519.0" name="_top"/>
-  <anchor x="328.0" y="758.0" name="top"/>
+  <anchor x="5.0" y="687.0" name="_bar-left"/>
+  <anchor x="357.0" y="687.0" name="_bar-right"/>
+  <anchor x="184.0" y="519.0" name="_top"/>
+  <anchor x="183.0" y="758.0" name="top"/>
   <outline>
     <contour>
-      <point x="485.0" y="712.0" type="line"/>
-      <point x="133.0" y="712.0" type="line"/>
-      <point x="127.0" y="687.0" type="line"/>
-      <point x="479.0" y="687.0" type="line"/>
+      <point x="357.0" y="712.0" type="line"/>
+      <point x="5.0" y="712.0" type="line"/>
+      <point x="5.0" y="687.0" type="line"/>
+      <point x="357.0" y="687.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:25:15</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <real>392.0</real>
+      <real>362.0</real>
     </dict>
   </lib>
 </glyph>

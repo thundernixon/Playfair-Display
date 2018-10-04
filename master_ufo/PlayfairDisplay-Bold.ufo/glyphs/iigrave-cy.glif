@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iigrave-cy" format="2">
-  <advance width="617.0"/>
+  <advance width="675.0"/>
   <unicode hex="045D"/>
-  <anchor x="274.0" y="0.0" name="bottom"/>
-  <anchor x="472.0" y="0.0" name="ogonek"/>
-  <anchor x="407.0" y="758.0" name="top"/>
+  <anchor x="330.0" y="753.0" name="top"/>
   <outline>
     <component base="ii-cy"/>
-    <component base="gravecomb" xOffset="46.0"/>
+    <component base="gravecomb" xOffset="191.0" yOffset="-5.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 17:35:39</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

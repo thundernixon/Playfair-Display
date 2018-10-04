@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreveacute" format="2">
-  <advance width="582.0"/>
+  <advance width="531.0"/>
   <unicode hex="1EAF"/>
-  <anchor x="226.0" y="0.0" name="bottom"/>
-  <anchor x="439.0" y="0.0" name="ogonek"/>
-  <anchor x="485.0" y="971.0" name="top"/>
+  <anchor x="266.0" y="0.0" name="bottom"/>
+  <anchor x="471.0" y="0.0" name="ogonek"/>
+  <anchor x="268.0" y="947.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="111.0"/>
-    <component base="acutecomb" xOffset="275.0" yOffset="213.0"/>
+    <component base="brevecomb" xOffset="54.0"/>
+    <component base="acutecomb" xOffset="176.0" yOffset="189.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 17:19:27</string>
-    </dict>
-  </lib>
 </glyph>

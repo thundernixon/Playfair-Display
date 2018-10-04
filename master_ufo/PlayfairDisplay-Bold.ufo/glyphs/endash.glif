@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="2">
-  <advance width="665.0"/>
+  <advance width="623.0"/>
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="89.0" y="341.0" type="line"/>
-      <point x="47.0" y="202.0" type="line"/>
-      <point x="562.0" y="202.0" type="line"/>
-      <point x="604.0" y="341.0" type="line"/>
+      <point x="569.0" y="341.0" type="line"/>
+      <point x="54.0" y="341.0" type="line"/>
+      <point x="54.0" y="202.0" type="line"/>
+      <point x="569.0" y="202.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/08/06 13:35:49</string>
-    </dict>
-  </lib>
 </glyph>

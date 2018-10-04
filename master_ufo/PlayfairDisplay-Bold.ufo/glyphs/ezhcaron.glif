@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ezhcaron" format="2">
-  <advance width="502.0"/>
+  <advance width="462.0"/>
   <unicode hex="01EF"/>
-  <anchor x="359.0" y="758.0" name="top"/>
+  <anchor x="230.0" y="0.0" name="bottom"/>
+  <anchor x="241.0" y="758.0" name="top"/>
   <outline>
     <component base="ezh"/>
-    <component base="caroncomb" xOffset="23.0"/>
+    <component base="caroncomb" xOffset="31.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 20:45:10</string>
-    </dict>
-  </lib>
 </glyph>

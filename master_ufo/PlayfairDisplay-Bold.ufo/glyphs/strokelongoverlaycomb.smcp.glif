@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="strokelongoverlaycomb.smcp" format="2">
-  <advance width="884.0"/>
-  <anchor x="488.0" y="444.0" name="_center"/>
+  <advance width="811.0"/>
+  <anchor x="406.0" y="453.0" name="_center"/>
   <outline>
     <contour>
-      <point x="912.0" y="454.0" type="line"/>
-      <point x="69.0" y="454.0" type="line"/>
-      <point x="64.0" y="434.0" type="line"/>
-      <point x="907.0" y="434.0" type="line"/>
+      <point x="802.0" y="463.0" type="line"/>
+      <point x="9.0" y="463.0" type="line"/>
+      <point x="9.0" y="443.0" type="line"/>
+      <point x="802.0" y="443.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 15:35:44</string>
-    </dict>
-  </lib>
 </glyph>

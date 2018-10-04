@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="326.0"/>
+  <advance width="304.0"/>
   <unicode hex="0060"/>
   <outline>
-    <component base="gravecomb" xOffset="30.0"/>
+    <component base="gravecomb" xOffset="51.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/24 09:32:04</string>
-    </dict>
-  </lib>
 </glyph>

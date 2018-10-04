@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent.smcp" format="2">
-  <advance width="744.0"/>
-  <anchor x="340.0" y="0.0" name="bottom"/>
-  <anchor x="547.0" y="828.0" name="top"/>
+  <advance width="728.0"/>
+  <anchor x="416.0" y="0.0" name="bottom"/>
+  <anchor x="415.0" y="828.0" name="top"/>
   <outline>
     <component base="g.smcp"/>
-    <component base="dotaccentcomb.smcp" xOffset="277.0"/>
+    <component base="dotaccentcomb.smcp" xOffset="316.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 18:47:52</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

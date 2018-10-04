@@ -521,15 +521,16 @@ sub hungarumlautcomb by hungarumlautcomb.smcp;
 sub circumflexcomb by circumflexcomb.smcp;
 sub caroncomb by caroncomb.smcp;
 sub brevecomb by brevecomb.smcp;
-sub ringcomb by ringcomb.smcp;
-sub tildecomb by tildecomb.smcp;
 sub macroncomb by macroncomb.smcp;
 sub commaaccentcomb by commaaccentcomb.smcp;
 sub cedillacomb by cedillacomb.smcp;
 sub ogonekcomb by ogonekcomb.smcp;
 sub acutecomb.loclPLK by acutecomb.loclPLK.smcp;
+sub ring by ring.smcp;
+sub tilde by tilde.smcp;
 sub breve-cy by breve-cy.smcp;
 sub hacek by hacek.smcp;
+sub slashL by slashL.smcp;
 
 } c2sc;
 
@@ -830,15 +831,16 @@ sub hungarumlautcomb by hungarumlautcomb.smcp;
 sub circumflexcomb by circumflexcomb.smcp;
 sub caroncomb by caroncomb.smcp;
 sub brevecomb by brevecomb.smcp;
-sub ringcomb by ringcomb.smcp;
-sub tildecomb by tildecomb.smcp;
 sub macroncomb by macroncomb.smcp;
 sub commaaccentcomb by commaaccentcomb.smcp;
 sub cedillacomb by cedillacomb.smcp;
 sub ogonekcomb by ogonekcomb.smcp;
 sub acutecomb.loclPLK by acutecomb.loclPLK.smcp;
+sub ring by ring.smcp;
+sub tilde by tilde.smcp;
 sub breve-cy by breve-cy.smcp;
 sub hacek by hacek.smcp;
+sub slashL by slashL.smcp;
 
 } smcp;
 
@@ -867,7 +869,6 @@ sub blackSquare by blackSquare.case;
 sub whiteSquare by whiteSquare.case;
 sub at by at.case;
 sub asciicircum by asciicircum.case;
-sub strokeshortoverlaycomb by strokeshortoverlaycomb.case;
 sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
@@ -901,11 +902,20 @@ sub nine by nine.lf;
 
 feature dlig {
 # automatic
+sub T h by T_h;
 sub c t by c_t;
 sub s p by s_p;
 sub s t by s_t;
 
 } dlig;
+
+feature rlig {
+script latn;
+language NLD;
+sub i j by ij;
+sub I J by IJ;
+sub i.smcp j.smcp by ij.smcp;
+} rlig;
 
 feature liga {
 # automatic
@@ -919,7 +929,6 @@ sub longs longs h by longs_longs_h.liga;
 sub longs longs i by longs_longs_i.liga;
 sub longs longs l by longs_longs_l.liga;
 sub longs longs t by longs_longs_t.liga;
-sub T h by T_h.liga;
 sub f b by f_b.liga;
 sub f f by f_f;
 sub f h by f_h.liga;
@@ -937,14 +946,6 @@ sub f l by fl;
 
 } liga;
 
-feature rlig {
-script latn;
-language NLD;
-sub i j by ij;
-sub I J by IJ;
-sub i.smcp j.smcp by ij.smcp;
-} rlig;
-
 feature cpsp {
 pos @Uppercase <20 0 20 0>;
 } cpsp;
@@ -956,8 +957,8 @@ lookup ccmp_Other_1 {
 	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-	@Markscomb = [strokeshortoverlaycomb dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb commaaccentcomb cedillacomb ogonekcomb acutecomb.loclPLK];
-	@MarkscombCase = [strokeshortoverlaycomb.case dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case acutecomb.loclPLK.case];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb commaaccentcomb cedillacomb ogonekcomb acutecomb.loclPLK];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case acutecomb.loclPLK.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_1;
@@ -972,8 +973,8 @@ lookup ccmp_Other_2 {
 table GDEF {
   # automatic
   GlyphClassDef
-    [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Ezh Ezhcaron F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek etilde schwa ezh ezhcaron f g gacute gbreve gcaron gcircumflex gcommaaccent gdotaccent gstroke h hbar hcaron hcircumflex i idotless iacute ibreve icircumflex idieresis idotaccent idotbelow igrave ihookabove imacron iogonek itilde j jdotless jcircumflex k kcaron kcommaaccent l lacute lcaron lcommaaccent ldot lslash m n nacute napostrophe ncaron ncommaaccent ntilde o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent longs t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucaron ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent cacute.loclPLK nacute.loclPLK oacute.loclPLK sacute.loclPLK zacute.loclPLK a.smcp aacute.smcp abreve.smcp abreveacute.smcp abrevedotbelow.smcp abrevegrave.smcp abrevehookabove.smcp abrevetilde.smcp acaron.smcp acircumflex.smcp acircumflexacute.smcp acircumflexdotbelow.smcp acircumflexgrave.smcp acircumflexhookabove.smcp acircumflextilde.smcp adieresis.smcp adotbelow.smcp agrave.smcp ahookabove.smcp amacron.smcp aogonek.smcp aring.smcp atilde.smcp ae.smcp b.smcp c.smcp cacute.smcp ccaron.smcp ccedilla.smcp ccircumflex.smcp cdotaccent.smcp d.smcp eth.smcp dcaron.smcp dcroat.smcp e.smcp eacute.smcp ebreve.smcp ecaron.smcp ecircumflex.smcp ecircumflexacute.smcp ecircumflexdotbelow.smcp ecircumflexgrave.smcp ecircumflexhookabove.smcp ecircumflextilde.smcp edieresis.smcp edotaccent.smcp edotbelow.smcp egrave.smcp ehookabove.smcp emacron.smcp eogonek.smcp etilde.smcp schwa.smcp ezh.smcp ezhcaron.smcp g.smcp gacute.smcp gbreve.smcp gcaron.smcp gcircumflex.smcp gcommaaccent.smcp gdotaccent.smcp gstroke.smcp h.smcp hbar.smcp hcaron.smcp hcircumflex.smcp i.smcp iacute.smcp ibreve.smcp icircumflex.smcp idieresis.smcp idotaccent.smcp idotbelow.smcp igrave.smcp ihookabove.smcp ij.smcp imacron.smcp iogonek.smcp itilde.smcp j.smcp jcircumflex.smcp k.smcp kcaron.smcp kcommaaccent.smcp l.smcp lacute.smcp lcaron.smcp lcommaaccent.smcp ldot.smcp cacute.loclPLK.smcp nacute.loclPLK.smcp oacute.loclPLK.smcp sacute.loclPLK.smcp zacute.loclPLK.smcp lslash.smcp n.smcp nacute.smcp ncaron.smcp ncommaaccent.smcp ntilde.smcp o.smcp oacute.smcp obreve.smcp ocircumflex.smcp ocircumflexacute.smcp ocircumflexdotbelow.smcp ocircumflexgrave.smcp ocircumflexhookabove.smcp ocircumflextilde.smcp odieresis.smcp odotbelow.smcp ograve.smcp ohookabove.smcp ohorn.smcp ohornacute.smcp ohorndotbelow.smcp ohorngrave.smcp ohornhookabove.smcp ohorntilde.smcp ohungarumlaut.smcp omacron.smcp oslash.smcp oslashacute.smcp otilde.smcp oe.smcp p.smcp thorn.smcp r.smcp racute.smcp rcaron.smcp rcommaaccent.smcp s.smcp sacute.smcp scaron.smcp scedilla.smcp scircumflex.smcp scommaaccent.smcp t.smcp tbar.smcp tcaron.smcp tcedilla.smcp tcommaaccent.smcp u.smcp uacute.smcp ubreve.smcp ucaron.smcp ucircumflex.smcp udieresis.smcp udotbelow.smcp ugrave.smcp uhookabove.smcp uhorn.smcp uhornacute.smcp uhorndotbelow.smcp uhorngrave.smcp uhornhookabove.smcp uhorntilde.smcp uhungarumlaut.smcp umacron.smcp uogonek.smcp uring.smcp utilde.smcp w.smcp wacute.smcp wcircumflex.smcp wdieresis.smcp wgrave.smcp y.smcp yacute.smcp ycircumflex.smcp ydieresis.smcp ydotbelow.smcp ygrave.smcp yhookabove.smcp ytilde.smcp z.smcp zacute.smcp zcaron.smcp zdotaccent.smcp A-cy Ve-cy Ge-cy Gje-cy Ie-cy Iegrave-cy Io-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ha-cy Che-cy Yeru-cy Dze-cy E-cy I-cy Yi-cy Je-cy Iu-cy Ghestroke-cy Kadescender-cy Endescender-cy Ustrait-cy Ustraitstroke-cy Shha-cy Entail-cy Schwa-cy Obarred-cy a-cy ge-cy gje-cy ie-cy iegrave-cy io-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ha-cy tse-cy dzhe-cy dze-cy i-cy yi-cy je-cy tshe-cy iu-cy ghestroke-cy kadescender-cy shha-cy schwa-cy obarred-cy a-cy.smcp ve-cy.smcp ge-cy.smcp gje-cy.smcp ie-cy.smcp iegrave-cy.smcp io-cy.smcp ze-cy.smcp ii-cy.smcp iishort-cy.smcp iigrave-cy.smcp ka-cy.smcp kje-cy.smcp en-cy.smcp o-cy.smcp pe-cy.smcp er-cy.smcp es-cy.smcp te-cy.smcp u-cy.smcp ushort-cy.smcp yeru-cy.smcp dze-cy.smcp i-cy.smcp yi-cy.smcp je-cy.smcp iu-cy.smcp ghestroke-cy.smcp kadescender-cy.smcp endescender-cy.smcp ustrait-cy.smcp ustraitstroke-cy.smcp entail-cy.smcp schwa-cy.smcp obarred-cy.smcp angstrom kelvin angstrom.smcp kelvin.smcp cent yen yen.smcp], # Base
-    [c_t f_f s_p s_t T_h.liga longs_t.liga longs_longs.liga longs_longs_t.liga iacute_j.smcp.loclNLD], # Liga
-    [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dotbelowcomb commaaccentcomb cedillacomb ogonekcomb dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case acutecomb.loclPLK.case acutecomb.loclPLK dieresiscomb.smcp dotaccentcomb.smcp gravecomb.smcp acutecomb.smcp hungarumlautcomb.smcp circumflexcomb.smcp caroncomb.smcp brevecomb.smcp ringcomb.smcp tildecomb.smcp macroncomb.smcp commaaccentcomb.smcp cedillacomb.smcp ogonekcomb.smcp acutecomb.loclPLK.smcp], # Mark
+    [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Ezh Ezhcaron F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Iacute_J.loclNLD Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek etilde schwa ezh ezhcaron f g gacute gbreve gcaron gcircumflex gcommaaccent gdotaccent gstroke h hbar hcaron hcircumflex i idotless iacute ibreve icircumflex idieresis idotaccent idotbelow igrave ihookabove imacron iogonek itilde j jdotless jcircumflex k kcaron kcommaaccent l lacute lcaron lcommaaccent ldot lslash m n nacute napostrophe ncaron ncommaaccent ntilde o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oslash oslashacute otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent longs t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucaron ucircumflex udieresis udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent iacute_j.loclNLD cacute.loclPLK nacute.loclPLK oacute.loclPLK sacute.loclPLK zacute.loclPLK a.smcp aacute.smcp abreve.smcp abreveacute.smcp abrevedotbelow.smcp abrevegrave.smcp abrevehookabove.smcp abrevetilde.smcp acaron.smcp acircumflex.smcp acircumflexacute.smcp acircumflexdotbelow.smcp acircumflexgrave.smcp acircumflexhookabove.smcp acircumflextilde.smcp adieresis.smcp adotbelow.smcp agrave.smcp ahookabove.smcp amacron.smcp aogonek.smcp aring.smcp atilde.smcp ae.smcp b.smcp c.smcp cacute.smcp ccaron.smcp ccedilla.smcp ccircumflex.smcp cdotaccent.smcp d.smcp eth.smcp dcaron.smcp dcroat.smcp e.smcp eacute.smcp ebreve.smcp ecaron.smcp ecircumflex.smcp ecircumflexacute.smcp ecircumflexdotbelow.smcp ecircumflexgrave.smcp ecircumflexhookabove.smcp ecircumflextilde.smcp edieresis.smcp edotaccent.smcp edotbelow.smcp egrave.smcp ehookabove.smcp emacron.smcp eogonek.smcp etilde.smcp schwa.smcp ezh.smcp ezhcaron.smcp f.smcp g.smcp gacute.smcp gbreve.smcp gcaron.smcp gcircumflex.smcp gcommaaccent.smcp gdotaccent.smcp gstroke.smcp h.smcp hbar.smcp hcaron.smcp hcircumflex.smcp i.smcp iacute.smcp ibreve.smcp icircumflex.smcp idieresis.smcp idotaccent.smcp idotbelow.smcp igrave.smcp ihookabove.smcp ij.smcp imacron.smcp iogonek.smcp itilde.smcp j.smcp jcircumflex.smcp k.smcp kcaron.smcp kcommaaccent.smcp l.smcp lacute.smcp lcaron.smcp lcommaaccent.smcp ldot.smcp cacute.loclPLK.smcp nacute.loclPLK.smcp oacute.loclPLK.smcp sacute.loclPLK.smcp zacute.loclPLK.smcp lslash.smcp n.smcp nacute.smcp ncaron.smcp ncommaaccent.smcp ntilde.smcp o.smcp oacute.smcp obreve.smcp ocircumflex.smcp ocircumflexacute.smcp ocircumflexdotbelow.smcp ocircumflexgrave.smcp ocircumflexhookabove.smcp ocircumflextilde.smcp odieresis.smcp odotbelow.smcp ograve.smcp ohookabove.smcp ohorn.smcp ohornacute.smcp ohorndotbelow.smcp ohorngrave.smcp ohornhookabove.smcp ohorntilde.smcp ohungarumlaut.smcp omacron.smcp oslash.smcp oslashacute.smcp otilde.smcp oe.smcp p.smcp thorn.smcp q.smcp r.smcp racute.smcp rcaron.smcp rcommaaccent.smcp s.smcp sacute.smcp scaron.smcp scedilla.smcp scircumflex.smcp scommaaccent.smcp germandbls.smcp t.smcp tbar.smcp tcaron.smcp tcedilla.smcp tcommaaccent.smcp u.smcp uacute.smcp ubreve.smcp ucaron.smcp ucircumflex.smcp udieresis.smcp udotbelow.smcp ugrave.smcp uhookabove.smcp uhorn.smcp uhornacute.smcp uhorndotbelow.smcp uhorngrave.smcp uhornhookabove.smcp uhorntilde.smcp uhungarumlaut.smcp umacron.smcp uogonek.smcp uring.smcp utilde.smcp v.smcp w.smcp wacute.smcp wcircumflex.smcp wdieresis.smcp wgrave.smcp x.smcp y.smcp yacute.smcp ycircumflex.smcp ydieresis.smcp ydotbelow.smcp ygrave.smcp yhookabove.smcp ytilde.smcp z.smcp zacute.smcp zcaron.smcp zdotaccent.smcp A-cy Ve-cy Ge-cy Gje-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy Em-cy En-cy O-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ha-cy Nje-cy Dze-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ghestroke-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustrait-cy Ustraitstroke-cy Entail-cy Schwa-cy Obarred-cy a-cy ge-cy gje-cy ie-cy iegrave-cy io-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy o-cy er-cy es-cy u-cy ushort-cy ha-cy dze-cy i-cy yi-cy je-cy ghestroke-cy kadescender-cy ustrait-cy ustraitstroke-cy shha-cy schwa-cy obarred-cy a-cy.smcp ve-cy.smcp ge-cy.smcp gje-cy.smcp ie-cy.smcp iegrave-cy.smcp io-cy.smcp zhe-cy.smcp ze-cy.smcp ii-cy.smcp iishort-cy.smcp iigrave-cy.smcp ka-cy.smcp kje-cy.smcp en-cy.smcp o-cy.smcp er-cy.smcp es-cy.smcp te-cy.smcp u-cy.smcp ushort-cy.smcp ha-cy.smcp nje-cy.smcp dze-cy.smcp i-cy.smcp yi-cy.smcp je-cy.smcp iu-cy.smcp ghestroke-cy.smcp zhedescender-cy.smcp kadescender-cy.smcp endescender-cy.smcp ustrait-cy.smcp ustraitstroke-cy.smcp entail-cy.smcp schwa-cy.smcp obarred-cy.smcp Omega angstrom kelvin angstrom.smcp kelvin.smcp space cent yen yen.smcp ring.smcp tilde.smcp breve-cy breve-cy.case breve-cy.smcp], # Base
+    [T_h c_t f_f s_p longs_t.liga longs_i.liga longs_longs.liga longs_longs_i.liga longs_longs_t.liga iacute_j.smcp.loclNLD], # Liga
+    [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dotbelowcomb commaaccentcomb cedillacomb ogonekcomb dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case acutecomb.loclPLK.case acutecomb.loclPLK dieresiscomb.smcp dotaccentcomb.smcp gravecomb.smcp acutecomb.smcp hungarumlautcomb.smcp circumflexcomb.smcp caroncomb.smcp brevecomb.smcp macroncomb.smcp commaaccentcomb.smcp cedillacomb.smcp ogonekcomb.smcp acutecomb.loclPLK.smcp], # Mark
     ;
 } GDEF;

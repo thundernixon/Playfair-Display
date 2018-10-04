@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acaron" format="2">
-  <advance width="582.0"/>
+  <advance width="531.0"/>
   <unicode hex="01CE"/>
-  <anchor x="226.0" y="0.0" name="bottom"/>
-  <anchor x="439.0" y="0.0" name="ogonek"/>
-  <anchor x="428.0" y="758.0" name="top"/>
+  <anchor x="266.0" y="0.0" name="bottom"/>
+  <anchor x="471.0" y="0.0" name="ogonek"/>
+  <anchor x="268.0" y="758.0" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="caroncomb" xOffset="92.0"/>
+    <component base="caroncomb" xOffset="58.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 17:19:27</string>
-    </dict>
-  </lib>
 </glyph>

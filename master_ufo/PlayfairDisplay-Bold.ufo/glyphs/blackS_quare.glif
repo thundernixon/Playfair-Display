@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="blackSquare" format="2">
-  <advance width="597.0"/>
+  <advance width="555.0"/>
   <unicode hex="25A0"/>
   <outline>
     <contour>
-      <point x="91.0" y="467.0" type="line"/>
-      <point x="91.0" y="51.0" type="line"/>
-      <point x="488.0" y="51.0" type="line"/>
-      <point x="488.0" y="467.0" type="line"/>
+      <point x="476.0" y="467.0" type="line"/>
+      <point x="79.0" y="467.0" type="line"/>
+      <point x="79.0" y="51.0" type="line"/>
+      <point x="476.0" y="51.0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:07:53</string>
-    </dict>
-  </lib>
 </glyph>

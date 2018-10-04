@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scedilla" format="2">
-  <advance width="609.0"/>
+  <advance width="613.0"/>
   <unicode hex="015E"/>
-  <anchor x="238.0" y="0.0" name="bottom"/>
-  <anchor x="407.0" y="708.0" name="top"/>
+  <anchor x="312.0" y="0.0" name="bottom"/>
+  <anchor x="313.0" y="708.0" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="cedillacomb.case" xOffset="155.0"/>
+    <component base="cedillacomb.case" xOffset="214.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 14:38:11</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
     </dict>
   </lib>
 </glyph>

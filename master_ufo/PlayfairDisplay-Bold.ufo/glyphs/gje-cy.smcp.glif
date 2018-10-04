@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gje-cy.smcp" format="2">
-  <advance width="583.0"/>
-  <anchor x="436.0" y="828.0" name="top"/>
+  <advance width="562.0"/>
+  <anchor x="281.0" y="828.0" name="top"/>
   <outline>
     <component base="ge-cy.smcp"/>
-    <component base="acutecomb.smcp" xOffset="180.0"/>
+    <component base="acutecomb.smcp" xOffset="99.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 17:41:54</string>
-    </dict>
-  </lib>
 </glyph>

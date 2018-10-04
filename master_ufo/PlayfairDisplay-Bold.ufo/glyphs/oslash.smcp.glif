@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash.smcp" format="2">
-  <advance width="811.0"/>
-  <anchor x="336.0" y="0.0" name="bottom"/>
-  <anchor x="408.0" y="306.0" name="center"/>
-  <anchor x="511.0" y="608.0" name="top"/>
+  <advance width="785.0"/>
+  <anchor x="394.0" y="0.0" name="bottom"/>
+  <anchor x="391.0" y="608.0" name="top"/>
   <outline>
     <component base="o.smcp"/>
-    <component base="slashlongoverlaycomb.smcp" xOffset="-15.0" yOffset="-9.0"/>
+    <component base="slashlongoverlaycomb.smcp"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 18:49:56</string>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
     </dict>

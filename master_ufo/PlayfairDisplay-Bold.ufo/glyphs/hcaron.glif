@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcaron" format="2">
-  <advance width="592.0"/>
+  <advance width="622.0"/>
   <unicode hex="021F"/>
-  <anchor x="231.0" y="0.0" name="bottom"/>
-  <anchor x="287.0" y="608.0" name="center"/>
-  <anchor x="496.0" y="1010.0" name="top"/>
+  <anchor x="21.0" y="608.0" name="bar-left"/>
+  <anchor x="311.0" y="0.0" name="bottom"/>
+  <anchor x="211.0" y="618.0" name="center"/>
+  <anchor x="303.0" y="997.0" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="caroncomb" xOffset="160.0" yOffset="252.0"/>
+    <component base="caroncomb" xOffset="93.0" yOffset="239.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/10/31 17:30:44</string>
-    </dict>
-  </lib>
 </glyph>

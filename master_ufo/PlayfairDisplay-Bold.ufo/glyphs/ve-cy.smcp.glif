@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ve-cy.smcp" format="2">
-  <advance width="699.0"/>
-  <anchor x="422.0" y="608.0" name="top"/>
+  <advance width="680.0"/>
+  <anchor x="321.0" y="0.0" name="bottom"/>
+  <anchor x="320.0" y="608.0" name="top"/>
   <outline>
     <component base="b.smcp"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/05/06 13:07:53</string>
-    </dict>
-  </lib>
 </glyph>

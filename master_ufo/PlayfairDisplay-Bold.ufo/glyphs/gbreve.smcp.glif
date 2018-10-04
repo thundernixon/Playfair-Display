@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve.smcp" format="2">
-  <advance width="744.0"/>
-  <anchor x="340.0" y="0.0" name="bottom"/>
-  <anchor x="529.0" y="751.0" name="top"/>
+  <advance width="728.0"/>
+  <anchor x="416.0" y="0.0" name="bottom"/>
+  <anchor x="397.0" y="751.0" name="top"/>
   <outline>
     <component base="g.smcp"/>
-    <component base="brevecomb.smcp" xOffset="169.0"/>
+    <component base="brevecomb.smcp" xOffset="173.0"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/01 14:16:26</string>
-    </dict>
-  </lib>
 </glyph>

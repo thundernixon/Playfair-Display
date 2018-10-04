@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="schwa-cy.smcp" format="2">
-  <advance width="782.0"/>
-  <anchor x="316.0" y="0.0" name="bottom"/>
-  <anchor x="465.0" y="608.0" name="top"/>
+  <advance width="783.0"/>
+  <anchor x="391.0" y="0.0" name="bottom"/>
+  <anchor x="388.0" y="608.0" name="top"/>
   <outline>
     <component base="schwa.smcp"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/11/05 18:20:22</string>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
     </dict>
